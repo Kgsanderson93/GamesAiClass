@@ -1,0 +1,18 @@
+No symbol "lt" in current context.
+No symbol "pos_vals" in current context.
+Single stepping until exit from function _Z19LearningTreeBuilderNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES4_P12LearningTree,
+which has no line number information.
+
+Thread 1 "main" received signal SIGSEGV, Segmentation fault.
+__memmove_avx_unaligned_erms () at ../sysdeps/x86_64/multiarch/memmove-vec-unaligned-erms.S:304
+304	../sysdeps/x86_64/multiarch/memmove-vec-unaligned-erms.S: No such file or directory.
+Couldn't get registers: No such process.
+Couldn't get registers: No such process.
+[Thread 0x7fffe91de700 (LWP 81622) exited]
+[Thread 0x7fffe99df700 (LWP 81621) exited]
+[Thread 0x7fffea1e0700 (LWP 81620) exited]
+[Thread 0x7fffea9e1700 (LWP 81619) exited]
+
+Program terminated with signal SIGSEGV, Segmentation fault.
+The program no longer exists.
+The program is not being run.

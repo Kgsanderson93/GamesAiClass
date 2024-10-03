@@ -1,0 +1,59 @@
+for(Node n:NodeList){
+    //PriorityQueue<Node, float> q;
+    float min=99999999.00000f;
+    float min2=min;
+    float min3=min2;
+    int minid=0;
+    int minid2=0;
+    int minid3=0;
+    for (Node n2:NodeList){
+      if (min3<200){
+        break;
+      }
+      if(n2.getID()!=n.getID()){
+        bool edgefound=false;
+        for(Edge e: EdgeList){
+          if(e.idFrom==n.id && e.idTo==n2.id){
+            edgefound=true;
+            break;
+          }
+        }
+        if(edgefound==false){
+        float geo=CalcGPSDistance(n.getCoord().x, n.getCoord().y, n2.getCoord().x, n2.getCoord().y);
+        if (geo<min){
+          minid3=minid2;
+          min3=min2;
+          minid2=minid;
+          min2=min;
+          minid=n2.getID();
+          min=geo;          
+        }else if(geo<min2){
+          minid3=minid2;
+          min3=min2;
+          min2=geo;
+          minid2=n2.getID();
+        }else if(geo<min3){
+          min3=geo;
+          minid3=n2.getID();
+        }
+
+        }
+       
+      }
+    }
+    EdgeList.emplace_back(walking, &n, &NodeList.at(minid));
+    EdgeList.back().distance = min;
+    EdgeList.emplace_back(walking, &n, &NodeList.at(minid2));
+    EdgeList.back().distance = min2;
+
+    EdgeList.emplace_back(walking, &n, &NodeList.at(minid3));
+    EdgeList.back().distance = min3;
+
+    printf("id: %d mins:%f min2:%f min3:%f\n",n.getID(), min, min2, min3);
+  }
+
+
+
+
+
+  

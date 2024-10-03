@@ -1,0 +1,1 @@
+Each folder can be run with make && ./main using the provided makefile. Each folder is labeled for the part of the hw it showcases. Folders with copies showcase alternate implementations or parameters. 

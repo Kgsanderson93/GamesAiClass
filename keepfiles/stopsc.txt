@@ -1,0 +1,2212 @@
+Stop_name, stop_Long, stop_Lat
+Hudson Ave & Cashmere St, 37.736, -122.384
+Hudson Ave & Ingalls St, 37.7325, -122.38
+Hudson Ave & Keith St, 37.7377, -122.384
+Hudson Ave & Mendell St, 37.739, -122.386
+Hudson Ave & Whitney Young Cir, 37.7333, -122.382
+Hyde St & Bay St, 37.8048, -122.42
+Hyde St & Broadway, 37.7965, -122.419
+Hyde St & Beach St, 37.8067, -122.421
+Hyde St & California St, 37.7911, -122.417
+Hyde St & Chestnut St, 37.8028, -122.42
+Hyde St & Clay St, 37.7929, -122.418
+Hyde St & Filbert St, 37.8002, -122.419
+Hyde St & Grove St, 37.7793, -122.415
+Hyde St & Greenwich St, 37.801, -122.419
+Hyde St & Green St, 37.7983, -122.419
+Hyde St & Jackson St, 37.7945, -122.418
+Hyde St & Lombard St, 37.8019, -122.42
+Hyde St & Mcallister St, 37.7808, -122.415
+Hyde St & North Point St, 37.8056, -122.42
+Hyde St & Pacific Ave, 37.7954, -122.418
+Hyde St & Pine St, 37.7902, -122.417
+Hyde St & Turk St, 37.7826, -122.416
+Hyde St & Union St, 37.7992, -122.419
+Hyde St & Vallejo St, 37.7974, -122.419
+Industrial St & Bay Shore Blvd, 37.7381, -122.407
+Industrial St & Elmira St, 37.7388, -122.404
+Industrial St & Palou Ave, 37.7396, -122.401
+Industrial St & Revere Ave, 37.7391, -122.403
+Innes Ave & Earl St, 37.7299, -122.372
+Innes Ave & Arelious Walker Dr, 37.7309, -122.374
+Innes Ave & Fitch St, 37.7309, -122.374
+Innes Ave & Griffith St, 37.732, -122.376
+Innes Ave & Hunters Point Blvd, 37.7329, -122.377
+Ingalls St & Beatrice Ln, 37.7306, -122.38
+Ingalls St & Harbor Rd, 37.7335, -122.38
+Ingalls St & Revere Ave, 37.7284, -122.385
+Ingalls St & Thomas Ave, 37.7273, -122.386
+Ingalls St & Van Dyke Ave, 37.726, -122.387
+Ingerson Ave & Griffith St, 37.717, -122.389
+Ingerson Ave & Hawes St, 37.718, -122.391
+Irving St & 2nd Ave, 37.7644, -122.459
+Irving St & Arguello Blvd, 37.7644, -122.458
+515 John Muir Dr, 37.7162, -122.495
+655 John Muir Ave, 37.717, -122.498
+John Muir Dr & Skyline Blvd, 37.719, -122.5
+Junipero Serra Blvd & Brotherhood Way, 37.7136, -122.471
+Junipero Serra Blvd / S.F. Golf Club, 37.7107, -122.471
+Junipero Serra Blvd & Font Blvd, 37.7146, -122.472
+Junipero Serra Blvd & Ocean Ave, 37.7314, -122.472
+Junipero Serra Blvd & Palmetto Av, 37.7109, -122.471
+Junipero Serra Blvd & Sloat Blvd, 37.7343, -122.472
+Jackson St & Divisadero St, 37.7917, -122.441
+Jackson St & Fillmore St, 37.7925, -122.435
+Jackson St & Hyde St, 37.7946, -122.418
+Jackson St & Jones St, 37.795, -122.415
+Jackson St & Leavenworth St, 37.7949, -122.416
+Jackson St & Mason St, 37.7954, -122.412
+Jackson St & Polk St, 37.7942, -122.421
+Jackson St & Scott St, 37.7919, -122.439
+Jackson St & Steiner St, 37.7924, -122.436
+Jackson St & Taylor St, 37.7953, -122.413
+Jackson St & Van Ness Ave, 37.794, -122.423
+Jackson St & Webster St, 37.7927, -122.433
+Juan Bautista Cir & Font Blvd, 37.7187, -122.478
+Judson Ave & Gennessee St, 37.7284, -122.451
+Jefferson St & Divisadero St, 37.8046, -122.444
+Jefferson St & Powell St, 37.8086, -122.413
+Jefferson St & Taylor St, 37.8083, -122.416
+Jones St & Beach St, 37.8071, -122.417
+Jones St & Geary St, 37.7869, -122.413
+Jones St & Post St, 37.7878, -122.413
+Jones St & Sutter St, 37.7887, -122.414
+Judah St & 5th Ave, 37.7623, -122.462
+Judah St & 6th Ave, 37.7624, -122.463
+Judah St & 7th Ave, 37.7623, -122.464
+Judah St & 9th Ave, 37.7622, -122.467
+Judah St & 12th Ave, 37.7621, -122.469
+Judah St & 15th Ave, 37.7618, -122.473
+Judah St & 16th Ave, 37.7619, -122.474
+Judah St & 19th Ave, 37.7617, -122.477
+Judah St & 22nd Ave, 37.7615, -122.48
+Judah St & 23rd Ave, 37.7615, -122.481
+Judah St & 25th Ave, 37.7615, -122.483
+Judah St & 28th Ave, 37.7613, -122.487
+Judah St & 31st Ave, 37.7612, -122.49
+Judah St & 34th Ave, 37.761, -122.493
+Judah St & 40th Ave, 37.7607, -122.499
+Judah St & 43rd Ave, 37.7606, -122.503
+Judah St & 46th Ave, 37.7605, -122.506
+Judah St & Funston Ave, 37.7621, -122.47
+Judah/La Playa/Ocean Beach, 37.7604, -122.509
+Judah St & Sunset Blvd, 37.7609, -122.496
+Kansas St & 23rd St, 37.7544, -122.402
+Kansas St & 25th St, 37.7519, -122.402
+Kansas St & 26th St, 37.7508, -122.402
+Keith St & Oakdale Ave, 37.7326, -122.387
+King St & 2nd St, 37.7797, -122.39
+King St & 4th St, 37.7763, -122.394
+Kiska Rd & Ingalls St, 37.7311, -122.379
+Laguna Honda Blvd & Clarendon Ave, 37.7507, -122.461
+Laguna Honda Blvd & Dewey Blvd, 37.7472, -122.459
+Laguna Honda Blvd/opp Forest Hill, 37.7483, -122.459
+Laguna Honda Blvd/Forest Hill Sta, 37.7481, -122.459
+Laguna Honda Blvd & Idora Ave, 37.744, -122.456
+7th Ave & Laguna Honda, 37.7549, -122.464
+Laguna Honda Blvd & Portola Dr, 37.7431, -122.455
+Laguna Honda Blvd & Ulloa St, 37.7435, -122.456
+Laguna Honda Blvd & Vasquez Ave, 37.746, -122.458
+Laguna St & Chestnut St, 37.8015, -122.431
+Laguna St & Hayes St, 37.7768, -122.426
+Legion Of Honor Dr & Clement St, 37.7817, -122.495
+Lincoln Blvd & Bowley St, 37.7884, -122.482
+Lincoln Blvd & Pershing Dr, 37.7921, -122.481
+Lombard St & Divisadero St, 37.799, -122.442
+Lombard St & Fillmore St, 37.7998, -122.436
+Lombard St & Grant Ave, 37.8035, -122.408
+Lombard St & Kearny St, 37.8037, -122.407
+Lombard St & Laguna St, 37.8005, -122.431
+Lombard St & Lyon St, 37.7985, -122.447
+Lombard St & Pierce St, 37.7994, -122.439
+Lombard St & Stockton St, 37.8033, -122.41
+La Salle Ave & Ingalls St, 37.7308, -122.381
+La Salle Ave & Newcomb Ave, 37.733, -122.385
+La Salle Ave & Osceola Dr, 37.7325, -122.384
+Louisburg St & Geneva Ave, 37.7216, -122.449
+Louisburg St & Niagra Ave, 37.7204, -122.45
+Letterman Dr/Tides Bldg, 37.7994, -122.452
+Letterman Dr & Lincoln Blvd, 37.7992, -122.452
+Lincoln Way & 3rd Ave, 37.7661, -122.46
+Lincoln Way & 5th Ave, 37.7662, -122.462
+Lincoln Way & 9th Ave, 37.766, -122.467
+Lincoln Way & 15th Ave, 37.7657, -122.473
+Lincoln Way & 17th Ave, 37.7656, -122.475
+Lincoln Way & 19th Ave, 37.7655, -122.478
+Lincoln Way & 21st Ave, 37.7654, -122.48
+Lincoln Way & 25th Ave, 37.7652, -122.484
+Lincoln Way & 27th Ave, 37.7651, -122.486
+Lincoln Way & 29th Ave, 37.765, -122.488
+Lincoln Way & 30th Ave, 37.7649, -122.489
+Lincoln Way & 31st Ave, 37.7649, -122.49
+Lincoln Way & 33rd Ave, 37.7648, -122.493
+Lincoln Way & 35th Ave, 37.7648, -122.495
+Lincoln Way & 47th Ave, 37.7642, -122.507
+Lincoln Way & Arguello Blvd, 37.766, -122.458
+Lincoln Way & Funston Ave, 37.7658, -122.471
+Lincoln Way & Great Hwy, 37.7641, -122.51
+Lincoln Way & La Playa St, 37.7639, -122.51
+Lyell St & Alemany Blvd, 37.7306, -122.431
+Lyon St & Greenwich St, 37.7974, -122.447
+Main St & Howard St, 37.7911, -122.394
+Main St & Mission St, 37.792, -122.395
+Main St & Market St, 37.7925, -122.396
+Mansell St & Brussels St, 37.7211, -122.403
+Mansell St & Dartmouth St, 37.7196, -122.409
+Mansell St & Goettingen St, 37.7207, -122.404
+Mansell St & Hamilton St, 37.7201, -122.407
+Mansell St & John F Shelley Dr, 37.7188, -122.418
+Mansell St & San Bruno Ave, 37.7214, -122.401
+Mansell St & Somerset St, 37.7204, -122.405
+Mansell St & University St, 37.719, -122.411
+Mansell St & Visitacion Ave, 37.7188, -122.411
+Mason St & Broadway, 37.7972, -122.412
+Mason St & Filbert St, 37.801, -122.413
+Mason St & Greenwich St, 37.8019, -122.413
+Mason St & Green St, 37.7991, -122.412
+Mason St & Jackson St, 37.7955, -122.412
+Mason St & Pacific Ave, 37.7962, -122.412
+Mason St & Union St, 37.8, -122.412
+Mason St & Vallejo St, 37.7982, -122.412
+Mason St & Washington St, 37.7945, -122.411
+Mcallister St & Baker St, 37.7774, -122.442
+Mcallister St & Divisadero St, 37.7778, -122.438
+Mcallister St & Fillmore St, 37.7786, -122.432
+Mcallister St & Gough St, 37.7797, -122.424
+Mcallister St & Hyde St, 37.7807, -122.416
+Mcallister St & Larkin St, 37.7805, -122.417
+Mcallister St & Laguna St, 37.7793, -122.427
+Mcallister St & Pierce St, 37.7782, -122.435
+Mcallister St & Van Ness Ave, 37.7801, -122.421
+Metro Powell Station/Downtown, 37.7847, -122.407
+Balboa Park BART/Mezzanine Level, 37.7218, -122.447
+Metro Van Ness Station, 37.7751, -122.419
+Monterey Blvd & Acadia St, 37.7317, -122.438
+Monterey Blvd & Baden St, 37.7317, -122.44
+Monterey Blvd & Congo St, 37.7317, -122.442
+Monterey Blvd & Detroit St, 37.7316, -122.445
+Monterey Blvd & Edna St, 37.7316, -122.446
+Monterey Blvd & El Verano Way, 37.7301, -122.462
+Monterey Blvd & Faxon Ave, 37.7307, -122.459
+Monterey Blvd & Foerster St, 37.7316, -122.449
+Monterey Blvd & Gennessee St, 37.7315, -122.451
+Monterey Blvd & Northgate Dr, 37.73, -122.462
+Monterey Blvd & Plymouth Ave, 37.7311, -122.457
+Monterey Blvd & Ridgewood Ave, 37.7316, -122.453
+Monterey Blvd & Saint Elmo WayE, 37.7306, -122.46
+Monterey Blvd & San Aleso Ave, 37.7323, -122.465
+Monterey Blvd & San Jacinto Way, 37.732, -122.464
+Monterey Blvd & Valdez Ave, 37.7314, -122.456
+Mt Vernon Ave & Howth St, 37.7197, -122.452
+Mt Vernon Ave & Louisburg St, 37.7194, -122.451
+555 Myra Way, 37.7382, -122.451
+Myra Way & Dalewood Way, 37.7367, -122.454
+Myra Way & Molimo Dr, 37.7378, -122.451
+Myra Way & Omar Way, 37.7392, -122.45
+North Point St & Hyde St, 37.8058, -122.42
+North Point St & Jones St, 37.8062, -122.417
+North Point St & Kearny St, 37.8074, -122.408
+North Point St & Larkin St, 37.8056, -122.422
+North Point St & Mason St, 37.8066, -122.414
+North Point St & Polk St, 37.8053, -122.424
+North Point St & Stockton St, 37.807, -122.41
+North Point St & Van Ness Ave, 37.805, -122.425
+Naples St & Athens St, 37.7125, -122.437
+Naples St & Brunswick St, 37.7118, -122.438
+Naples St & Brazil Ave, 37.7225, -122.43
+Naples St & Curtis St, 37.7111, -122.439
+Naples St & Geneva Ave, 37.7142, -122.436
+Naples St & Rolph St, 37.7135, -122.437
+Naples St & Seville St, 37.7117, -122.438
+Newcomb Ave & Keith St, 37.7332, -122.386
+Newcomb Ave & La Salle Ave, 37.733, -122.385
+Newcomb Ave & Newhall St, 37.7363, -122.392
+Newhall St & Oakdale Ave, 37.7358, -122.392
+Middle Point Rd & Innes Ave, 37.7342, -122.38
+Middle Point Rd & Acacia Ave, 37.737, -122.379
+Middle Point Rd & West Point Rd, 37.7352, -122.379
+Mendell St & Cargo Way, 37.7437, -122.383
+Mendell St & Newhall St, 37.7425, -122.384
+Mendell St/US Post Office, 37.7411, -122.384
+Mendell St Opposite US Post Office, 37.7411, -122.385
+V.A. Hospital, 37.7818, -122.504
+126 Miraloma Dr, 37.7377, -122.461
+Miraloma Dr & Bengal Aly, 37.7379, -122.461
+Miraloma Dr & Juanita Way, 37.7394, -122.46
+Mission St & Richland Ave, 37.7356, -122.425
+Mission St & Russia Ave, 37.7215, -122.437
+Mission St & Ruth St, 37.7233, -122.436
+Mission St & Sickles Ave, 37.7087, -122.453
+Mission St & Silver Ave, 37.7287, -122.431
+Mission St & Spear St, 37.7924, -122.394
+Mission St & Trumbull St, 37.7307, -122.429
+Mission St & Valencia St, 37.7451, -122.42
+Mission St & Whittier St, 37.7105, -122.448
+Munich St & Cordova Ave, 37.7109, -122.435
+Munich St & Geneva Ave, 37.7129, -122.433
+Munich St & Naples St, 37.7112, -122.438
+Galvez Ave & Robinson Ave, 37.7288, -122.367
+33 Moffitt St, 37.7368, -122.432
+Market St & 1st St, 37.7905, -122.4
+Market St & 2nd St, 37.7894, -122.401
+Market St & 3rd St, 37.7875, -122.404
+Market St Between 4th & 3rd St, 37.7866, -122.405
+Market St & 4th St, 37.7857, -122.406
+Market St Between 5th & 4th St, 37.7848, -122.407
+Market St & 5th St, 37.7839, -122.408
+Market St & 6th St, 37.7821, -122.41
+Market St & 7th St, 37.7798, -122.413
+Market St & 8th St, 37.7786, -122.415
+Market St & 9th St, 37.7774, -122.416
+Market St & 15th St, 37.7657, -122.431
+Market St & 16th St, 37.7639, -122.434
+Market St & 5th  St, 37.7841, -122.408
+Market St & Battery St, 37.7911, -122.399
+Market St & Beale St, 37.7926, -122.397
+Market St & Buchanan St, 37.7698, -122.426
+Market St & Church St, 37.7677, -122.429
+Market St & Clayton St, 37.7584, -122.444
+Market St & Castro St, 37.7629, -122.435
+Market St & 17th St, 37.763, -122.435
+Market St & Dolores St, 37.7689, -122.427
+Market St & Drumm St, 37.7935, -122.396
+Market St & Front St, 37.7919, -122.398
+Market St & Gough St, 37.7733, -122.422
+Market St & Grant Ave, 37.7864, -122.405
+Market St & Guerrero St, 37.7706, -122.425
+Market St & Hyde St, 37.7791, -122.414
+Market St & Kearny St, 37.7877, -122.403
+Market St & Larkin St, 37.7776, -122.416
+Market St & Laguna St, 37.771, -122.425
+Market St & Main St, 37.793, -122.397
+Market St & Mason St, 37.7828, -122.41
+Market St & Montgomery St, 37.7885, -122.402
+Market St & New Montgomery St, 37.7886, -122.402
+Market St & Noe St, 37.7645, -122.433
+Market St & Powell St, 37.7845, -122.408
+Market St & Sansome St, 37.79, -122.4
+Market St & Sanchez St, 37.7662, -122.431
+Market St & South Van Ness Ave, 37.7751, -122.419
+Market St & Steuart St, 37.7943, -122.395
+Market St & Stockton St, 37.7858, -122.406
+Market St & Taylor St, 37.7823, -122.41
+Market St & Van Ness Ave, 37.7752, -122.419
+Marview Way & Panorama Dr, 37.7536, -122.451
+Moscow St & Brazil Ave, 37.7214, -122.428
+Moscow St & Excelsior Ave, 37.7229, -122.426
+Moscow St & France Ave, 37.7167, -122.431
+Moscow St & Italy Ave, 37.7151, -122.432
+Moscow St & Persia Ave, 37.7198, -122.429
+Masonic Ave & Frederick St, 37.7675, -122.445
+Masonic Ave & Fulton St, 37.7756, -122.447
+Masonic Ave & Geary Blvd, 37.7822, -122.447
+Plymouth Ave & Grafton Ave, 37.7199, -122.456
+Plymouth Ave & Holloway Ave, 37.7219, -122.456
+Plymouth Ave & Lakeview Ave, 37.7182, -122.456
+Plymouth Ave & Lobos St, 37.715, -122.456
+Plymouth Ave & Mangels Ave, 37.7321, -122.458
+Plymouth Ave & Montana St, 37.7165, -122.456
+Plymouth Ave & Monterey Blvd, 37.7311, -122.458
+Plymouth Ave & Ocean Ave, 37.7238, -122.456
+Plymouth Ave & Sagamore St, 37.7117, -122.456
+Plymouth Ave & Thrift St, 37.7176, -122.456
+Plymouth Ave & Yerba Buena Ave, 37.7326, -122.459
+Panorama Dr & Dellbrook Ave, 37.7535, -122.453
+Panorama Dr & Starview Way, 37.7493, -122.452
+Polk St & Broadway, 37.7962, -122.422
+Polk St & Francisco St, 37.8037, -122.423
+Polk St & Lombard St, 37.8017, -122.423
+Polk St & North Point St, 37.805, -122.424
+Polk St & O'Farrell St, 37.7851, -122.42
+Polk St & Pine St, 37.7898, -122.42
+Polk St & Post St, 37.787, -122.42
+Polk St & Sacramento St, 37.7917, -122.421
+Polk St & Sutter St, 37.7877, -122.42
+Polk St & Union St, 37.799, -122.422
+Polk St & Washington St, 37.7935, -122.421
+6 Portola Dr, 37.75, -122.443
+120 Portola Dr, 37.749, -122.444
+Portola Dr & Burnett Ave, 37.747, -122.445
+Portola Dr & Clarendon Ave, 37.7397, -122.465
+Portola Dr & Clipper St, 37.7472, -122.444
+Portola Dr & Del Sur Ave, 37.742, -122.456
+Portola Dr & Dorchester Way, 37.7401, -122.463
+Portola Dr & Glenview Dr, 37.7465, -122.448
+Post St & Larkin St, 37.787, -122.418
+Post St & Leavenworth St, 37.7874, -122.415
+Post St & Laguna St, 37.7858, -122.428
+Post St & Montgomery St, 37.789, -122.402
+Post St & Octavia St, 37.7859, -122.427
+Post St & Polk St, 37.7868, -122.42
+Post St & Powell St, 37.7883, -122.408
+Post St & Taylor St, 37.7879, -122.411
+Post St & Van Ness Ave, 37.7866, -122.421
+Potrero Ave & 16th St, 37.766, -122.407
+Potrero Ave & 21st St, 37.7575, -122.407
+Potrero Ave & 23rd St, 37.7551, -122.407
+Potrero Ave & 24th St, 37.7534, -122.406
+Potrero Ave & 25th St, 37.7516, -122.406
+Potrero Ave & Alameda St, 37.7683, -122.408
+Powell St & Bay St, 37.8057, -122.412
+Powell St & Beach St, 37.808, -122.413
+Powell St & Bush St, 37.7902, -122.409
+Powell St & California St, 37.7923, -122.409
+Powell St & Clay St, 37.7938, -122.409
+Quintara St & 27th Ave, 37.7482, -122.485
+Quintara St & 28th Ave, 37.7483, -122.486
+Quintara St & 29th Ave, 37.7482, -122.487
+Quintara St & 31st Ave, 37.7481, -122.489
+Quintara St & 33rd Ave, 37.7481, -122.491
+Quintara St & 35th Ave, 37.748, -122.493
+Quintara St & 36th Ave, 37.7478, -122.494
+Quintara St & 39th Ave, 37.7476, -122.498
+Quintara St & 41st Ave, 37.7477, -122.5
+Quintara St & 44th Ave, 37.7474, -122.503
+Quintara St & 46th Ave, 37.7474, -122.505
+Quintara St & 48th Ave, 37.7473, -122.507
+Quintara St & Cragmont Ave, 37.7491, -122.468
+Quintara St & Funston Ave, 37.749, -122.469
+Randolph St & Arch St, 37.7143, -122.467
+Randolph St & Bright St, 37.7143, -122.463
+Randall St & Whitney St, 37.7397, -122.428
+Richardson Ave & Francisco St, 37.8004, -122.447
+Reddy St & Thornton Ave, 37.731, -122.395
+Reddy St & Williams Ave, 37.7298, -122.395
+176 Rhode Island St, 37.7562, -122.402
+Rhode Island St & 15th St, 37.7675, -122.403
+Rhode Island St & 16th St, 37.7664, -122.403
+Rhode Island St & 17th St, 37.7649, -122.403
+Rhode Island St & 18th St, 37.762, -122.402
+Rhode Island St & 19th St, 37.7609, -122.402
+Rhode Island St & 20th St, 37.7594, -122.402
+Rhode Island St & 22nd St, 37.7569, -122.402
+Rhode Island St & 23rd St, 37.7543, -122.402
+Rhode Island St & 24th St, 37.7535, -122.402
+Rhode Island St & 25th St, 37.7521, -122.401
+Rhode Island St & 26th St, 37.7507, -122.401
+Rhode Island St & Alameda St, 37.7688, -122.403
+Rhode Island St & Mariposa St, 37.7633, -122.403
+Rhode Island St & Southern Heights Ave, 37.7585, -122.402
+Ripley St & Alabama St, 37.7444, -122.41
+Ripley St & Folsom St, 37.7442, -122.413
+Rousseau St & Cayuga Ave, 37.7314, -122.43
+Right Of Way/18th St, 37.7612, -122.428
+Right Of Way/20th St, 37.7583, -122.428
+Right Of Way/21st St, 37.7566, -122.427
+Church St & 22nd St, 37.7546, -122.428
+Right Of Way/Eucalyptus Dr, 37.7312, -122.474
+Right Of Way/Liberty St, 37.7575, -122.427
+Right Of Way/Ocean Ave, 37.732, -122.474
+Reposa Way & Myra Way, 37.7402, -122.451
+Reposa Way & Teresita Blvd, 37.7408, -122.449
+414 Roosevelt Way, 37.7645, -122.443
+415 Roosevelt Way, 37.7645, -122.443
+Roosevelt Way & 14th St, 37.7672, -122.437
+Roosevelt Way & 15th St, 37.7665, -122.44
+Roosevelt Way & 17th St, 37.762, -122.445
+Roosevelt Way & Clifford Ter, 37.7637, -122.443
+Roosevelt Way & Lower Ter, 37.7634, -122.444
+Roosevelt Way & Museum Way, 37.7654, -122.441
+Russia Ave & Moscow St, 37.7181, -122.43
+Rutland St & Leland Ave, 37.7125, -122.407
+Sansome St & Washington St, 37.796, -122.402
+Santos St & Brookdale Ave, 37.712, -122.419
+19th Avenue & Holloway St, 37.7212, -122.475
+Dublin St & La Grande Ave, 37.7192, -122.426
+3rd St & Carroll Ave, 37.7257, -122.394
+3rd St & Evans Ave, 37.7424, -122.388
+3rd St & Folsom St, 37.7842, -122.399
+3rd St & Hudson Ave, 37.7401, -122.389
+3rd St & Innes Ave, 37.7393, -122.389
+3rd St & La Salle Ave, 37.7372, -122.39
+3rd St & Kirkwood Ave, 37.7379, -122.39
+3rd St & Stevenson St, 37.7864, -122.402
+3rd St & Palou Ave, 37.7341, -122.391
+3rd St & Oakdale Ave, 37.7348, -122.391
+3rd St & Bryant St, 37.7817, -122.396
+3rd St & Revere Ave, 37.7323, -122.391
+3rd St & Salinas Ave, 37.7209, -122.396
+3rd St & Van Dyke Ave, 37.7292, -122.393
+3rd St & Williams Ave, 37.7292, -122.393
+4th St & 3rd St, 37.773, -122.39
+4th St & Brannan St, 37.7783, -122.397
+4th St & Folsom St, 37.7821, -122.401
+4th St & Mission St, 37.7843, -122.404
+4th St & Market St, 37.7855, -122.406
+4th St & Townsend St, 37.7769, -122.395
+5th St & Folsom St, 37.7803, -122.404
+5th St & Mission St, 37.7826, -122.406
+6th Ave & Balboa St, 37.7771, -122.464
+6th Ave & Clement St, 37.7831, -122.464
+6th Ave & Fulton St, 37.7738, -122.464
+6th Ave & Geary Blvd, 37.7809, -122.464
+1697 7th Ave, 37.7566, -122.464
+7th St & Brannan St, 37.7733, -122.403
+7th St & Folsom St, 37.7769, -122.408
+7th St & Harrison St, 37.7757, -122.406
+7th St & Howard St, 37.7779, -122.409
+7th St & Mission St, 37.7793, -122.411
+7th St & Market St, 37.7803, -122.412
+8th Ave & Fulton St, 37.7736, -122.466
+8th St & Brannan St, 37.7712, -122.405
+8th St & Bryant St, 37.7724, -122.407
+8th St & Folsom St, 37.7748, -122.41
+8th St & Harrison St, 37.7735, -122.408
+8th St & Mission St, 37.7772, -122.413
+8th St & Market St, 37.7785, -122.415
+9th Ave & Irving St, 37.7643, -122.466
+9th Ave & Judah St, 37.7621, -122.466
+9th Ave & Kirkham St, 37.7604, -122.466
+9th Ave & Lawton St, 37.7585, -122.466
+18th St & Church St, 37.7614, -122.428
+18th St & Castro St, 37.761, -122.435
+18th St & Danvers St, 37.7604, -122.444
+18th St & Diamond St, 37.7607, -122.437
+18th St & Dolores St, 37.7615, -122.426
+18th St & Eureka St, 37.7608, -122.438
+18th St & Guerrero St, 37.7616, -122.424
+18th St & Hattie St, 37.7606, -122.441
+18th St & Mission St, 37.7619, -122.42
+18th St & Market St, 37.7598, -122.444
+18th St & Noe St, 37.7611, -122.433
+18th St & Sanchez St, 37.7612, -122.43
+18th St & Valencia St, 37.7618, -122.422
+19th Ave & Buckingham Way, 37.7259, -122.475
+19th Ave & Eucalyptus Dr, 37.7308, -122.475
+19th Ave & Holloway Ave, 37.7211, -122.475
+19th Ave & Irving St, 37.7637, -122.477
+19th Ave & Junipero Serra Blvd, 37.7169, -122.472
+19th Ave & Judah St, 37.7618, -122.477
+19th Ave & Lawton St, 37.7581, -122.477
+19th Ave & Lincoln Way, 37.7654, -122.477
+19th Ave & Noriega St, 37.7543, -122.476
+19th Ave & Randolph St, 37.7162, -122.472
+19th Ave & Ortega St, 37.7527, -122.476
+19th Ave & Quintara St, 37.7485, -122.476
+19th Ave & Rivera St, 37.7472, -122.476
+19th Ave & Sloat Blvd, 37.7346, -122.475
+19th Ave & Taraval St, 37.7433, -122.476
+19th Ave & Vicente St, 37.7395, -122.475
+19th Ave & Winston Dr, 37.7272, -122.475
+20th Ave & Buckingham Way, 37.7304, -122.476
+20th Av/Macy's Stonestown, 37.7289, -122.476
+20th Ave & Winston Dr, 37.7269, -122.476
+20th St & 3rd St, 37.7605, -122.389
+20th St & Collingwood St, 37.7577, -122.436
+20th St & Eureka St, 37.7576, -122.438
+30th Ave & Quintara St, 37.748, -122.488
+30th Ave & Rivera St, 37.7464, -122.488
+30th Ave & Santiago St, 37.7445, -122.488
+30th Ave & Taraval St, 37.7426, -122.488
+30th Ave & Ulloa St, 37.7408, -122.487
+30th St & Church St, 37.7422, -122.426
+30th St & Dolores St, 37.7423, -122.424
+30th St & Mission St, 37.7424, -122.422
+30th St & Noe St, 37.7419, -122.431
+30th St & Sanchez St, 37.742, -122.429
+32nd Ave & Balboa St, 37.7767, -122.492
+32nd Ave & California St, 37.7834, -122.492
+32nd Ave & Clement St, 37.782, -122.492
+32nd Ave & Geary Blvd, 37.7799, -122.492
+33rd Ave & Anza St, 37.7779, -122.493
+33rd Ave & Balboa St, 37.776, -122.493
+33rd Ave & Clement St, 37.7815, -122.493
+33rd Ave & Geary Blvd, 37.7798, -122.493
+36th Ave & Lincoln Way, 37.7646, -122.495
+37th Ave & Lincoln Way, 37.7644, -122.497
+39th Ave & Quintara St, 37.7476, -122.497
+39th Ave & Rivera St, 37.746, -122.497
+42nd Ave & Clement St, 37.7811, -122.503
+43rd Ave & Clement St, 37.781, -122.504
+43rd Ave & Point Lobos Ave, 37.7798, -122.504
+45th Ave & Balboa St, 37.7752, -122.506
+45th Ave & Cabrillo St, 37.7736, -122.506
+46th Ave & Irving St, 37.7624, -122.506
+46th Ave & Judah St, 37.7605, -122.506
+46th Ave & Kirkham St, 37.7587, -122.506
+46th Ave & Lawton St, 37.7568, -122.506
+46th Ave & Lincoln Way, 37.764, -122.506
+46th Ave & Moraga St, 37.7549, -122.506
+46th Ave & Noriega St, 37.7528, -122.505
+46th Ave & Ortega St, 37.7512, -122.505
+46th Ave & Pacheco St, 37.7493, -122.505
+46th Ave & Quintara St, 37.7475, -122.505
+46th Ave & Rivera St, 37.7456, -122.505
+46th Ave & Santiago St, 37.7437, -122.505
+46th Ave & Taraval St, 37.7419, -122.505
+46th Ave & Ulloa St, 37.74, -122.505
+46th Ave & Vicente St, 37.7381, -122.504
+46th Ave & Wawona St, 37.7361, -122.504
+47th Ave & Wawona St, 37.736, -122.505
+48th Ave & Point Lobos Ave, 37.779, -122.509
+Cyril Magnin St & Market St, 37.784, -122.408
+46 Addison St, 37.7377, -122.431
+164 Addison  St, 37.7382, -122.433
+Addison St & Diamond Heights Blvd, 37.74, -122.436
+Addison  St & Digby St, 37.74, -122.434
+Addison  St & Farnum St, 37.7402, -122.434
+Alana Way & Executive Park Blvd, 37.709, -122.394
+Alemany Blvd & Arch St, 37.7116, -122.467
+Bryant St & 6th St, 37.7762, -122.402
+Bryant St & 16th St, 37.7655, -122.41
+Bryant St & 17th St, 37.7642, -122.41
+Bryant St & 18th St, 37.7619, -122.41
+Bryant St & 19th St, 37.7606, -122.41
+Bryant St & 20th St, 37.7593, -122.41
+Bryant St & 21st St, 37.7575, -122.41
+Bryant St & 22nd St, 37.7562, -122.409
+Bryant St & 23rd St, 37.7543, -122.409
+Bryant St & 24th St, 37.7529, -122.409
+Bryant St & 25th St, 37.7513, -122.409
+Bryant St & 26th St, 37.7497, -122.409
+Bryant St & Mariposa St, 37.7631, -122.41
+Brazil Ave & Athens St, 37.7216, -122.428
+Brazil Ave & Madrid St, 37.7231, -122.432
+Brazil Ave & Mission St, 37.7247, -122.435
+Brazil Ave & Moscow St, 37.7212, -122.427
+Brazil Ave & Munich St, 37.7209, -122.427
+Brazil Ave & Naples St, 37.7224, -122.43
+Brazil Ave & Paris St, 37.724, -122.433
+Brazil Ave & Prague St, 37.7205, -122.426
+228 Bayshore Blvd, 37.7447, -122.404
+Bayshore Blvd & Alemany Blvd, 37.7377, -122.407
+Bayshore Blvd & Arleta Ave, 37.7122, -122.403
+Bayshore Blvd & Augusta St, 37.7342, -122.406
+Bayshore Blvd & Boutwell St, 37.7349, -122.406
+Bayshore Blvd & Cortland Ave, 37.7399, -122.407
+Bayshore Blvd & Hester Ave, 37.7135, -122.4
+Bayshore Blvd & Leland Ave, 37.7111, -122.404
+Bayshore Blvd & Silver Ave, 37.7332, -122.405
+Bayshore Blvd & Tunnel Ave, 37.7129, -122.401
+Bayshore Blvd & Visitacion Ave, 37.7106, -122.404
+Buchanan St & Bay St, 37.8034, -122.433
+Santos St & Geneva Ave, 37.7085, -122.42
+Santos St & Velasco Ave, 37.7098, -122.419
+3800 San Bruno Ave, 37.7148, -122.401
+3801 San Bruno Ave, 37.7148, -122.4
+San Bruno Ave & Arleta Ave, 37.7125, -122.402
+San Bruno Ave & Bacon St, 37.728, -122.404
+San Bruno Ave & Dwight St, 37.7241, -122.402
+San Bruno Ave & Mansell St, 37.7211, -122.401
+San Bruno Ave & Paul Ave, 37.7242, -122.402
+San Bruno Ave & Silver Ave, 37.732, -122.405
+San Bruno Ave & Somerset St, 37.7138, -122.402
+San Bruno Ave & Thornton Ave, 37.7303, -122.405
+San Bruno Ave & Ward St, 37.7191, -122.401
+Sloat Blvd & West Portal Ave, 37.7348, -122.472
+Santiago St & 14th Ave, 37.7451, -122.47
+Santiago St & 17th Ave, 37.7451, -122.474
+South Hill Blvd & Chicago Way, 37.7107, -122.432
+South Hill Blvd & Prague St, 37.7122, -122.432
+South Hill Blvd & Rolph St, 37.7112, -122.432
+Spear St & Market St, 37.7934, -122.395
+Stanyan St & Frederick St, 37.7664, -122.453
+Stanyan St & Fulton St, 37.7746, -122.455
+Stanyan St & Hayes St, 37.7728, -122.454
+Stanyan St & Oak St, 37.7709, -122.454
+Stanyan St & Waller St, 37.7683, -122.453
+St Charles Ave & Alemany Blvd, 37.7103, -122.469
+St Charles Ave & Belle Ave, 37.7087, -122.469
+Steiner St & California St, 37.7888, -122.436
+Steiner St & Green St, 37.7959, -122.437
+Steiner St & Sacramento St, 37.7893, -122.436
+Steiner St & Union St, 37.7968, -122.437
+Steiner St & Vallejo St, 37.7949, -122.437
+Steuart St & Mission St, 37.7943, -122.394
+Steuart St & Market St, 37.7944, -122.395
+West Portal/Sloat/St Francis Circle, 37.7348, -122.472
+Saint Francis Blvd & Santa Clara Ave, 37.7349, -122.466
+Saint Francis Blvd & Santa Ana Ave, 37.7349, -122.468
+Saint Francis Blvd & San Fernando Way, 37.7349, -122.47
+Still St & Lyell St, 37.7318, -122.431
+Stockton St & Clay St, 37.7938, -122.408
+Stockton St & Columbus Ave, 37.7991, -122.409
+Stockton St & Filbert St, 37.8014, -122.409
+Stockton St & Geary St, 37.7877, -122.407
+Stockton St & Greenwich St, 37.8023, -122.41
+Stockton St & Lombard St, 37.8031, -122.41
+Stockton St & Pacific Ave, 37.7963, -122.408
+Stockton St & Sacramento St, 37.7935, -122.408
+Stockton St & Sutter St, 37.7901, -122.407
+Stockton St & Union St, 37.8005, -122.409
+Stockton St & Washington St, 37.7947, -122.408
+Sunset Blvd & Judah St, 37.761, -122.496
+Sunset Blvd & Lawton St, 37.7573, -122.496
+Sunset Blvd & Noriega St, 37.7535, -122.495
+Sunset Blvd & Ocean Ave, 37.732, -122.494
+Sunset Blvd & Ortega St, 37.7518, -122.495
+Sunset Blvd & Quintara St, 37.7481, -122.495
+Sunset Blvd & Rivera St, 37.7461, -122.495
+Sunset Blvd & Taraval St, 37.7423, -122.495
+Telegraph Hill Blvd & Greenwich St, 37.8027, -122.407
+636 Teresita Blvd, 37.7368, -122.446
+900 Teresita Blvd, 37.734, -122.446
+Teresita Blvd & Bella Vista Way, 37.7377, -122.447
+Teresita Blvd & El Sereno Ct, 37.7389, -122.446
+Teresita Blvd & Evelyn Way, 37.7431, -122.451
+Teresita Blvd & Foerster St, 37.7357, -122.446
+Teresita Blvd & Fowler Ave, 37.7435, -122.451
+Teresita Blvd & Gaviota Way, 37.7399, -122.448
+Teresita Blvd & Isola Way, 37.7418, -122.45
+Teresita Blvd & Marietta Dr, 37.7375, -122.446
+Teresita Blvd & Portola Dr, 37.7451, -122.452
+Teresita Blvd & Reposa Way, 37.741, -122.449
+Teresita Blvd & Stillings Ave, 37.7345, -122.445
+Townsend St & 4th St, 37.7766, -122.395
+Topeka Ave & Bridge View Dr, 37.7333, -122.398
+Topeka Ave & Newhall St, 37.7318, -122.396
+Topeka Ave & Thornton Ave, 37.7312, -122.395
+Topeka Ave & Venus St, 37.732, -122.396
+Turk St & Arguello Blvd, 37.7771, -122.458
+Turk St & Baker St, 37.7793, -122.442
+Turk St & Broderick St, 37.7795, -122.44
+Turk St & Chabot Ter, 37.7781, -122.452
+Turk St & Central Ave, 37.7789, -122.445
+Turk St & Hyde St, 37.7826, -122.416
+Turk St & Jones St, 37.783, -122.413
+Turk St & Larkin St, 37.7825, -122.417
+Turk St & Leavenworth St, 37.7828, -122.414
+Turk St & Lyon St, 37.7791, -122.444
+Turk St & Masonic Ave, 37.7787, -122.447
+Turk St & Parker Ave, 37.7779, -122.453
+Turk St & Roselyn Ter, 37.7782, -122.45
+Turk St & Stanyan St, 37.7776, -122.455
+Turk St & Taylor St, 37.7835, -122.409
+Ulloa St & 30th Ave, 37.7407, -122.487
+Ulloa St & Forest Side Ave, 37.7415, -122.468
+Ulloa St & Lenox Way, 37.7411, -122.466
+West Portal Station, 37.741, -122.466
+Ulloa St & West Portal Ave, 37.741, -122.466
+Union St & Baker St, 37.7959, -122.445
+Union St & Buchanan St, 37.7974, -122.432
+Union St & Columbus Ave, 37.8004, -122.41
+Visitacion Ave & Cora St, 37.7117, -122.409
+Visitacion Ave & Rutland St, 37.7115, -122.408
+Visitacion Ave & Sawyer St, 37.7133, -122.414
+Visitacion Ave & Schwerin St, 37.7122, -122.411
+Valencia St & 24th St, 37.7519, -122.421
+Valencia St & 25th St, 37.7503, -122.421
+Valencia St & Cesar Chavez St, 37.748, -122.42
+West Portal Ave & 14th Ave, 37.7379, -122.469
+West Portal Ave & 15th Ave, 37.7365, -122.471
+West Portal Ave & Vicente St, 37.7398, -122.467
+117 Warren Dr, 37.7537, -122.458
+345 Warren Dr E, 37.7554, -122.461
+400 Warren Dr E, 37.7569, -122.461
+455 Warren Dr, 37.7577, -122.462
+Warren Dr & Christopher Dr, 37.7538, -122.46
+Warren Dr & Devonshire Way, 37.7545, -122.461
+Warren Dr & Locksley Ave, 37.7587, -122.463
+Warren Dr & Oakpark Dr, 37.7553, -122.456
+Washington St & Jones St, 37.794, -122.415
+Washington St & Larkin St, 37.7934, -122.42
+Washington St & Leavenworth St, 37.7938, -122.416
+Washington St & Mason St, 37.7945, -122.411
+Washington St & Powell St, 37.7946, -122.41
+Washington St & Taylor St, 37.7943, -122.413
+Washington St & Webster St, 37.7917, -122.433
+Wawona/46th Ave /SF Zoo, 37.7361, -122.504
+Woodside Ave & Balceta Ave, 37.7465, -122.456
+Woodside Ave & Hernandez Ave, 37.7464, -122.455
+Woodside Ave & Portola Dr, 37.7458, -122.452
+Woodside Ave & Ulloa St, 37.7458, -122.454
+356 Wilde Ave, 37.717, -122.404
+Rutland St & Campbell Ave, 37.7153, -122.406
+Rutland St & Sunnydale Ave, 37.7099, -122.409
+Rutland St & Visitacion Ave, 37.7113, -122.408
+Visitacion Valley Middle School, 37.7162, -122.414
+West Portal Ave & Ulloa St, 37.7409, -122.466
+Wilde Ave & Rutland St, 37.7174, -122.405
+Church St & Market St, 37.7675, -122.429
+Church St & Duboce Ave, 37.7693, -122.429
+Duboce Ave & Noe St, 37.7692, -122.434
+Evans Ave & Mendell St, 37.7409, -122.385
+Mission St & San Jose Ave, 37.7064, -122.46
+San Jose Ave & Mt Vernon Ave, 37.7185, -122.449
+Geneva Ave & Rio Verde St, 37.7071, -122.416
+Tioga Ave & Rutland St, 37.7166, -122.406
+Mission St & 7th St, 37.7794, -122.411
+California St & Van Ness Ave, 37.7904, -122.422
+The Embarcadero & Brannan St, 37.7846, -122.388
+Letterman Dr & Lombard St, 37.7981, -122.45
+Portola Ave & Claremont Ave, 37.7398, -122.465
+California St & 8th Ave, 37.7848, -122.467
+California St & Front St, 37.7934, -122.399
+California St & Grant Ave, 37.7925, -122.406
+California St & Hyde St, 37.791, -122.418
+California St & Jones St, 37.7915, -122.414
+California St & Kearny St, 37.7927, -122.404
+California St & Larkin St, 37.7909, -122.419
+California St & Laurel St, 37.7869, -122.45
+California St & Leavenworth St, 37.7913, -122.416
+California St & Mason St, 37.7919, -122.411
+California St & Montgomery St, 37.7928, -122.403
+California St & Pierce St, 37.7885, -122.437
+California St & Park Presidio Blvd, 37.7845, -122.473
+California St & Polk St, 37.7907, -122.421
+California St & Powell St, 37.7921, -122.409
+California St & Presidio Ave, 37.7873, -122.447
+California St & Sansome St, 37.7931, -122.401
+California St & Spruce St, 37.7865, -122.454
+California St & Stockton St, 37.7923, -122.408
+California St & Taylor St, 37.7917, -122.412
+Carl St & Cole St, 37.7659, -122.45
+Carl St & Hillway Ave, 37.765, -122.457
+Carl St & Stanyan St, 37.7655, -122.453
+Cashmere St & Hudson Ave, 37.7357, -122.384
+Cashmere St & La Salle Ave, 37.7359, -122.387
+Cashmere St & Whitney Young Cir, 37.7366, -122.386
+Cabrillo St & 47th Ave, 37.7734, -122.508
+Cabrillo St & La Playa St, 37.7736, -122.51
+Cesar Chavez St & Florida St, 37.7482, -122.41
+Cesar Chavez St & Folsom St, 37.7483, -122.414
+Cesar Chavez St & Harrison St, 37.7482, -122.412
+Cesar Chavez St & Mission St, 37.7482, -122.418
+Cesar Chavez St & South Van Ness Ave, 37.7483, -122.416
+Chestnut St & Divisadero St, 37.8001, -122.443
+Chestnut St & Fillmore St, 37.8008, -122.436
+Chestnut St & Laguna St, 37.8015, -122.431
+Chestnut St & Pierce St, 37.8005, -122.439
+Chestnut St & Van Ness Ave, 37.8022, -122.425
+Chestnut St & Webster St, 37.8011, -122.435
+Chicago Way & Cordova Ave, 37.7089, -122.434
+Clement St & Legion Of Honor Dr, 37.7816, -122.494
+Clayton St & Twin Peaks Blvd, 37.7609, -122.446
+Clipper St & Diamond Heights Blvd, 37.7469, -122.444
+Clipper St & Portola Dr, 37.7467, -122.445
+Clayton St & Carl St, 37.7663, -122.448
+Clayton St & Corbett Ave, 37.7588, -122.446
+Clayton St & Carmel St, 37.7609, -122.446
+Clayton St & Frederick St, 37.7669, -122.448
+Clayton St & Market St, 37.7584, -122.444
+Clayton St & Parnassus Ave, 37.7654, -122.448
+Coit Tower, 37.8027, -122.406
+Cole St & 17th St, 37.7617, -122.449
+Cole St & Alma St, 37.7633, -122.45
+Cole St & Carl St, 37.7659, -122.45
+Cole St & Carmel St, 37.7609, -122.449
+Cole St & Frederick St, 37.7668, -122.45
+Cole St & Haight St, 37.7695, -122.451
+Cole St & Parnassus Ave, 37.7648, -122.45
+Cole St & Waller St, 37.7685, -122.45
+Columbus Ave & Bay St, 37.8055, -122.418
+Columbus Ave & Broadway, 37.7981, -122.407
+Columbus Ave & Chestnut St, 37.8038, -122.415
+Columbus Ave & Filbert St, 37.8012, -122.412
+Columbus Ave & Francisco St, 37.8045, -122.416
+Columbus Ave & Green St, 37.7994, -122.409
+Columbus Ave & Kearny St, 37.7973, -122.406
+Columbus Ave & Lombard St, 37.8027, -122.414
+Columbus Ave & Mason St, 37.8021, -122.413
+Columbus Ave & North Point St, 37.8055, -122.418
+Columbus Ave & Taylor St, 37.8033, -122.415
+Columbus Ave & Union St, 37.8005, -122.41
+General Managers Office, 37.7539, -122.397
+Connecticut St & 17th St, 37.765, -122.398
+Connecticut St & 18th St, 37.7626, -122.398
+Connecticut St & 19th St, 37.7612, -122.397
+Connecticut St & 25th St, 37.7523, -122.396
+Connecticut St & 26th St, 37.7513, -122.396
+Connecticut St & Cesar Chavez St, 37.75, -122.396
+Cordova Ave & Prague St, 37.7102, -122.435
+Cordova Ave & Winding Way, 37.7096, -122.435
+Cortland Ave & Andover St, 37.7391, -122.416
+Cortland Ave & Bocana St, 37.7393, -122.418
+Cortland Ave & Bradford St, 37.7398, -122.41
+Cortland Ave & Bayshore Blvd, 37.7396, -122.407
+Cortland Ave & Elsie St, 37.7399, -122.42
+Cortland Ave & Ellsworth St, 37.7389, -122.415
+Cortland Ave & Folsom St, 37.739, -122.414
+Cortland Ave & Mission St, 37.741, -122.423
+Cortland Ave & Prentiss St, 37.7398, -122.412
+Cortland Ave & Prospect Ave, 37.7403, -122.421
+210 Corbett Ave, 37.7618, -122.443
+211 Corbett Ave, 37.7616, -122.443
+328 Corbett Ave, 37.7599, -122.445
+341 Corbett Ave, 37.7599, -122.445
+539 Corbett Ave, 37.7575, -122.444
+Geary Blvd & 28th Ave, 37.78, -122.488
+Geary Blvd & 30th Ave, 37.78, -122.49
+Geary Blvd & 32nd Ave, 37.7796, -122.492
+Geary Blvd & 33rd Ave, 37.7797, -122.493
+Geary Blvd & 36th Ave, 37.7797, -122.496
+Geary Blvd & 39th Ave, 37.7795, -122.501
+Geary Blvd & 42nd Ave, 37.7792, -122.503
+Geary Blvd & 45th Ave, 37.779, -122.506
+Geary Blvd & Arguello Blvd, 37.7812, -122.459
+Geary Blvd & Baker St, 37.783, -122.443
+Geary Blvd & Collins St, 37.7822, -122.45
+Geary Blvd & Commonwealth St, 37.7815, -122.456
+Geary Blvd & Divisadero St, 37.7834, -122.439
+Geary Blvd & Fillmore St, 37.7844, -122.433
+Geary Blvd & Gough St, 37.7854, -122.425
+Geary St & Jones St, 37.7868, -122.413
+Geary St & Kearny St, 37.788, -122.404
+Geary St & Larkin St, 37.7861, -122.418
+Geary St & Leavenworth St, 37.7866, -122.415
+Geary Blvd & Laguna St, 37.785, -122.428
+Castro St & 14th St, 37.7676, -122.436
+Castro St & 15th St, 37.7658, -122.436
+Castro St & 16th St, 37.7642, -122.435
+Castro St & 17th St, 37.7624, -122.435
+Castro St & 18th St, 37.7608, -122.435
+Castro St & 19th St, 37.7594, -122.435
+Castro St & 20th St, 37.7578, -122.435
+Castro St & 21st St, 37.756, -122.434
+Castro St & 22nd St, 37.7546, -122.434
+Castro St & 23rd St, 37.7528, -122.434
+Castro St & 24th St, 37.7512, -122.434
+Castro St & 25th St, 37.7498, -122.434
+Castro St & Duboce Ave, 37.7692, -122.436
+Castro St & Elizabeth St, 37.7519, -122.434
+Castro St & Market St, 37.7624, -122.435
+City View Way & Knollview Way, 37.7489, -122.451
+Curtis St & Prague St, 37.7102, -122.438
+Cargo Way & 3rd St, 37.7461, -122.387
+Daly City BART Station, 37.7058, -122.469
+Davis St & Pine St, 37.7926, -122.398
+De Haro St & 16th St, 37.7661, -122.402
+De Haro St & 17th St, 37.7648, -122.402
+De Haro St & 18th St, 37.7622, -122.401
+De Haro St & 19th St, 37.7609, -122.401
+De Haro St & 20th St, 37.7597, -122.401
+De Haro St & 22nd St, 37.7574, -122.401
+De Haro St & 23rd St, 37.7549, -122.401
+De Haro St & Mariposa St, 37.7635, -122.401
+De Haro St & Southern Heights Ave, 37.758, -122.401
+5157 Diamond Heights Blvd, 37.7469, -122.44
+Diamond Heights Blvd & Addison St, 37.7402, -122.436
+Diamond Heights Blvd & Berkeley, 37.7387, -122.437
+Diamond Heights Blvd & Berkeley Way, 37.7386, -122.437
+Diamond Heights Blvd & Diamond St, 37.7419, -122.436
+Diamond Heights Blvd & Duncan St, 37.7452, -122.44
+Diamond Heights Blvd & Gold Mine Dr, 37.7436, -122.438
+Diamond St & 24th St, 37.7511, -122.436
+Eddy St & Buchanan St, 37.7819, -122.429
+Eddy St & Divisadero St, 37.7805, -122.439
+Eddy St & Fillmore St, 37.7815, -122.432
+Eddy St & Gough St, 37.7825, -122.424
+Eddy St & Hyde St, 37.7835, -122.416
+Eddy St & Jones St, 37.7839, -122.412
+Eddy St & Larkin St, 37.7834, -122.418
+Eddy St & Leavenworth St, 37.7837, -122.414
+Eddy St & Laguna St, 37.7821, -122.427
+Eddy St & Mason St, 37.7843, -122.409
+Eddy St & Pierce St, 37.7811, -122.436
+Eddy St & Polk St, 37.7832, -122.419
+Eddy St & Scott St, 37.7809, -122.437
+Eddy St & Taylor St, 37.7841, -122.411
+Eddy St & Van Ness Ave, 37.783, -122.421
+The Embarcadero & Bay St, 37.8069, -122.406
+The Embarcadero & Broadway, 37.7996, -122.398
+The Embarcadero & Folsom St, 37.7907, -122.39
+The Embarcadero & Ferry Building, 37.7949, -122.394
+The Embarcadero & Greenwich St, 37.8033, -122.401
+The Embarcadero & Green St, 37.8013, -122.399
+The Embarcadero & Howard St, 37.7922, -122.391
+The Embarcadero & Sansome St, 37.805, -122.403
+The Embarcadero & Stockton St, 37.8083, -122.41
+The Embarcadero & Townsend St, 37.7836, -122.388
+The Embarcadero & Washington St, 37.7971, -122.396
+Eureka St & 18th St, 37.7606, -122.438
+Eureka St & 19th St, 37.759, -122.438
+Eureka St & 20th St, 37.7574, -122.438
+Eureka St & 21st St, 37.756, -122.438
+Eureka St & 22nd St, 37.7544, -122.438
+Eureka St & Market St, 37.7616, -122.438
+Eucalyptus Dr & 19th Ave, 37.7312, -122.475
+Eucalyptus Dr & Junipero Serra Blvd, 37.731, -122.472
+Evans Ave & 3rd St, 37.7426, -122.388
+Evans Ave & Cesar Chavez St, 37.7486, -122.397
+Evans Ave & Keith St, 37.7388, -122.381
+Evans Ave & Middle Point Rd, 37.7377, -122.379
+Evans Ave & Newhall St, 37.7419, -122.386
+Evans Ave & Napoleon St, 37.7473, -122.396
+Evans Ave & USPO, 37.74, -122.383
+Evans Ave & Phelps St, 37.743, -122.388
+Evans Ave & Quint St, 37.7442, -122.391
+Evans Ave & Selby St, 37.7463, -122.394
+Evans Ave Opposite US Post Office, 37.7397, -122.383
+909 Ellsworth St, 37.7328, -122.417
+945 Ellsworth St, 37.7328, -122.418
+989 Ellsworth St, 37.7326, -122.419
+Ellsworth St & Crescent Ave, 37.7347, -122.415
+Excelsior Ave & Madrid St, 37.7248, -122.431
+Excelsior Ave & Mission St, 37.7262, -122.434
+Excelsior Ave & Naples St, 37.724, -122.429
+Excelsior Ave & Paris St, 37.7255, -122.432
+50 Thomas Mellon Dr, 37.7098, -122.393
+Executive Park Blvd & Blanken Ave, 37.7109, -122.395
+West Portal Ave & Sloat Blvd, 37.735, -122.471
+Sloat Blvd & 47th Ave, 37.7354, -122.505
+Crescent Ave & Ellsworth St, 37.7347, -122.415
+Cortland Ave & Bronte St, 37.7397, -122.41
+Metro Embarcadero Station, 37.7926, -122.397
+Ashbury St & Clayton St, 37.763, -122.447
+Duncan St & Amber Dr, 37.746, -122.443
+Plymouth Ave & Broad St, 37.7133, -122.456
+16th Avenue & Lawton Street, 37.758, -122.474
+Font Blvd & Gonzalez Dr, 37.7167, -122.476
+Grafton Ave at Plymouth Ave, 37.7201, -122.456
+Diamond St (south)/Diamond Hts, 37.7382, -122.437
+Duboce St/Noe St/Duboce Park, 37.7694, -122.434
+24th St & Noe St, 37.7514, -122.432
+Embarcadero & Sansome St, 37.8051, -122.403
+Larkin St & McAllister St, 37.7804, -122.417
+16th St & Folsom St, 37.7654, -122.415
+Castro St & 26th St, 37.7482, -122.434
+California St & Davis St, 37.7935, -122.397
+Ashbury St & Frederick St, 37.7673, -122.446
+Sunnydale Ave & Bay Shore Blvd, 37.7088, -122.405
+Potrero Ave&15th St, 37.7673, -122.408
+Mission St & South Van Ness Ave, 37.773, -122.418
+Geneva Ave & Carter St, 37.7093, -122.423
+O'Farrell St & Taylor St, 37.7859, -122.412
+Bush St & Sansome St, 37.7911, -122.401
+Geneva Ave&Carter St, 37.7091, -122.423
+Myra Way & Reposa Way, 37.74, -122.451
+7th Ave & Lawton St, 37.7584, -122.464
+Roosevelt Way & Buena Vista Ter, 37.7667, -122.438
+Folsom St & 24th St, 37.7524, -122.414
+Sunset Tunnel East Portal, 37.7693, -122.434
+3rd St & Fitzgerald Ave, 37.7231, -122.395
+3rd St & Warriors Way, 37.7691, -122.389
+3rd St & Gene Friend Way, 37.7687, -122.389
+Garfield St & Byxbee St, 37.7196, -122.47
+Garfield St & Vernon St, 37.7196, -122.468
+Leland Ave & Alpha St, 37.7119, -122.406
+Leland Ave & Bayshore Blvd, 37.7111, -122.404
+Raymond Ave & Rutland St, 37.7133, -122.407
+Raymond Ave & Delta St, 37.7138, -122.409
+Raymond Ave & Sawyer St, 37.715, -122.413
+Sawyer St & Visitacion Ave, 37.7133, -122.414
+Bayshore Blvd & Blanken Ave, 37.7122, -122.402
+Raymond Ave & Elliot St, 37.7144, -122.411
+Third Street/Gilman/Paul, 37.7222, -122.396
+Third Street & Carroll Ave, 37.7255, -122.394
+Third Street & Williams Ave, 37.7293, -122.393
+Third Street & Evans Ave, 37.7427, -122.388
+Third Street & Marin St, 37.749, -122.387
+Third Street & 23rd St, 37.7554, -122.388
+Third Street & 20th St, 37.7605, -122.389
+UCSF Medical Center (Mariposa), 37.7644, -122.389
+UCSF / Chase Center (16th St), 37.7685, -122.389
+Third Street & Mission Rock St, 37.773, -122.39
+UCSF / Chase Center (16th Street), 37.7682, -122.389
+4th St & Berry St, 37.7758, -122.394
+Third St & Le Conte Ave, 37.7188, -122.397
+Third St & Marin St, 37.749, -122.387
+Third St & Mariposa St, 37.7644, -122.389
+Third St & Mariposa St., 37.7642, -122.389
+Presidio Transit Center, 37.8023, -122.456
+Third Street/Hudson/Innes, 37.7399, -122.389
+Third Street/Kirkwood/La Salle, 37.7377, -122.39
+Third Street/Oakdale/Palou, 37.7343, -122.391
+Third Street/Revere/Shafter, 37.7323, -122.392
+Third Street & Le Conte Ave, 37.7186, -122.398
+Bayshore Blvd & Sunnydale Ave, 37.709, -122.405
+4th St & King St, 37.7761, -122.394
+Bayshore Blvd & Areta Ave, 37.7122, -122.402
+Monterey Blvd & San Anselmo Ave, 37.7331, -122.465
+Silver Ave & Lisbon St, 37.7286, -122.429
+California St & Battery St, 37.7931, -122.4
+3rd St & 22nd St, 37.7581, -122.388
+Van Ness Ave & North Point St, 37.8048, -122.425
+Fulton Street & Shrader Street, 37.7749, -122.453
+Geneva Street & Schwerin Street, 37.7063, -122.413
+Pennsylvania Avenue & 23rd Street, 37.7552, -122.393
+Pennsylvania Avenue & 25th Street, 37.7526, -122.393
+25th Avenue & Dakota Street, 37.7523, -122.395
+Foerster Street & Monterey Blvd, 37.7317, -122.449
+South Van Ness Ave & 24th St, 37.7523, -122.416
+Cabrillo St & 7th Ave, 37.7754, -122.465
+Folsom St & Cesar Chavez St, 37.7485, -122.414
+Mission St & Flournoy, 37.7066, -122.459
+Avenue H & 5th St, 37.8232, -122.369
+Avenue H & 9th St, 37.8252, -122.37
+Avenue H & 13th St, 37.8283, -122.372
+Hayes St & Shrader St, 37.7731, -122.453
+McAllister St & Jones St, 37.7812, -122.412
+Divisadero St & Bay St, 37.8019, -122.443
+17th Ave & Quintara St, 37.7486, -122.474
+Quintara St & 17th Ave, 37.7488, -122.474
+Bernal Heights Blvd & Powhattan St, 37.7415, -122.411
+Ulloa St & West Portal Ave Arrive, 37.7409, -122.466
+Cesar Chavez St. & Valencia St., 37.7481, -122.42
+Daly City BART West Station Rd., 37.7071, -122.469
+5th St & Brannan St, 37.7762, -122.399
+Zoo Rd & Amory Rd, 37.7304, -122.502
+Alemany Blvd & Flosom St, 37.7333, -122.414
+McAllister St & Leavenworth St, 37.7809, -122.414
+Fillmore St & Haight St, 37.7721, -122.43
+Ocean Ave & Otsego Ave, 37.7234, -122.441
+Geneva Ave & Mission St, 37.7164, -122.441
+8th St & Howard, 37.7761, -122.412
+Burnett Ave & Dawnview Way, 37.7481, -122.445
+Parnassus Ave &4th Ave, 37.7625, -122.461
+513 Parnassus Ave, 37.7633, -122.458
+Crescent Ave & Anderson St, 37.7349, -122.416
+Fulton St & 43rd Ave, 37.7716, -122.503
+Fulton St & Park Presidio, 37.7728, -122.477
+Fulton S t& 28th Ave, 37.7725, -122.488
+Fulton S t& 30th Ave, 37.7724, -122.49
+Fulton St & 40th Ave, 37.7719, -122.5
+Folsom St & 20St, 37.7588, -122.415
+Folsom St & 20th St, 37.759, -122.415
+Pacific Ave & Stockton St, 37.7967, -122.409
+Morse St & Lowell St, 37.711, -122.446
+Executive Park Blvd & Thomas Mellon Dr, 37.7112, -122.394
+Palou Ave & Newhall St, 37.7352, -122.393
+Haight St & Gough St, 37.7731, -122.422
+Crossover Dr & Lincoln St, 37.7655, -122.477
+16th St& Rhode Island St, 37.766, -122.403
+16th St & Wisconsin St, 37.7662, -122.4
+16th St & Missouri St, 37.7664, -122.397
+16th St & 4th St, 37.7668, -122.391
+Mission Bay North & 3rd St, 37.7711, -122.39
+Mission Bay South & 4th St SE-FS/ BZ, 37.7705, -122.391
+16th Street & 4th Street, 37.7669, -122.391
+16th Street & Missouri St, 37.7665, -122.397
+16th Street & Wisconsin St, 37.7663, -122.4
+16th Street & Rhode Island St, 37.7661, -122.403
+Newhall St & Hudson, 37.74, -122.388
+San Jose Ave & Geneva Ave, 37.7212, -122.446
+Presidio Blvd & Letterman Dr, 37.7991, -122.452
+Lombard St & Gough St, 37.8009, -122.428
+Font Blvd & Tapia Dr, 37.7207, -122.481
+Font Blvd & Serrano Dr, 37.7196, -122.48
+Font Blvd & Juan Bautisa Cir, 37.7185, -122.479
+Brotherhood Way & Chumasero Dr, 37.713, -122.473
+Brotherhood Way & Summit Way, 37.7138, -122.475
+Brotherhood Way & Grace Community Church, 37.7145, -122.48
+Brotherhood Way & Church Access Rd, 37.7141, -122.476
+Ocean Ave & I-280 On Ramp, 37.723, -122.447
+Chumasero Dr & Galindo Ave, 37.7141, -122.473
+Font Blvd & Mary Ward Hall, 37.7225, -122.483
+Buckingham Way & Winston Dr, 37.7285, -122.479
+Skyline Blvd & Sloat Blvd, 37.7336, -122.496
+Arch St & Alemany St, 37.7116, -122.467
+Steuart St & Don Chee Way, 37.7938, -122.394
+Arguello Blvd & Geary Blvd, 37.7819, -122.459
+Mission St & Power St, 37.7462, -122.419
+Bemis St & Addison St, 37.7379, -122.429
+California St & 6th Ave, 37.785, -122.464
+Pennslvania Ave & 20th St, 37.7602, -122.393
+Lake Merced & Lakeshore, 37.7294, -122.494
+Lincoln Way & 34th Ave, 37.7647, -122.493
+Chestnut St & Gough St, 37.8018, -122.428
+Donahue St & Innes Ave, 37.7289, -122.37
+Broadway & Sansome St, 37.7984, -122.402
+Sansome St & Jackson St, 37.7965, -122.402
+16th Street & Owen St, 37.7667, -122.393
+16th St & Owen St, 37.7667, -122.393
+Otis & McCoppin St, 37.7716, -122.42
+4th & Brannan Southbound, 37.7783, -122.397
+Yerba Buena/Moscone Station Southbound, 37.7822, -122.402
+Union Square/Market St Station Southbound, 37.7871, -122.407
+Chinatown - Rose Pak Station, 37.7948, -122.408
+Union Square/Market St Station Northbound, 37.7872, -122.406
+Yerba Buena/Moscone Station Northbound, 37.7824, -122.402
+Fourth Street & Brannan Northbound, 37.7784, -122.397
+Quintra St & 43rd Ave, 37.7476, -122.502
+Bayshore Blvd & Flower St, 37.7424, -122.406
+201 Bayshore Blvd E, 37.7446, -122.404
+Bayshore Blvd & Oakdale Ave, 37.743, -122.405
+San Bruno Ave & Harkness Ave, 37.718, -122.4
+San Bruno Ave & Felton St, 37.7299, -122.405
+Valencia St & Mission St, 37.7459, -122.42
+Potrero Ave & 19th St, 37.7607, -122.407
+Potrero Ave & Mariposa St, 37.7633, -122.407
+Transit Center Bay B, 37.7901, -122.396
+Transit Center Bay C, 37.79, -122.395
+Transit Center Bay D, 37.79, -122.395
+Transit Center Bay E, 37.7901, -122.395
+Transit Center Bay 30, 37.79, -122.396
+Pacific Ave & Van Ness Ave, 37.7947, -122.423
+Daly City BART Parking Lot E, 37.706, -122.469
+8th Ave & Judah Ave, 37.7621, -122.465
+Ocean Ave & Muni Right of Way, 37.7319, -122.474
+Mission st & Fremont St, 37.7903, -122.397
+Transit Center Bay 29, 37.7901, -122.396
+Zoo Rd & Skyline Blvd, 37.7286, -122.502
+Geary Blvd & Masonic St, 37.7822, -122.447
+Townsend St & 5th St, 37.7756, -122.397
+Townsend St & 7th St, 37.7711, -122.402
+3rd Street & Evans Ave, 37.7425, -122.388
+Jones St & O'Farrell St, 37.7857, -122.413
+Moscow St & Geneva Ave, 37.7132, -122.434
+Moscow St & Russia Ave, 37.718, -122.43
+Moscow St & Brazil St, 37.7211, -122.428
+Moscow St & Avalon Ave, 37.7243, -122.425
+Main St & Folsom St, 37.7896, -122.392
+Essex St & Folsom St, 37.7862, -122.396
+Spear St & Mission St, 37.7924, -122.394
+Spear St & Folsom St, 37.7902, -122.391
+Irving St & 8th Ave, 37.764, -122.465
+Clipper Cove Way & Treasure Island Rd, 37.8161, -122.371
+Folsom St & Beale St, 37.7884, -122.393
+Oakdale Ave & Toland St, 37.741, -122.401
+5th Street & Natoma Ave, 37.7821, -122.406
+Lyon St & Union St, 37.7957, -122.447
+Ocean Ave & Geneva Ave, 37.7231, -122.452
+Shoreline Access Road, 37.8163, -122.372
+Ave M & 4th St, 37.823, -122.366
+Ave H & 4th St, 37.8221, -122.368
+Mason St & Yacht Rd, 37.805, -122.449
+Mason St & Halleck St, 37.8043, -122.454
+Sports Basement Parking Lot, 37.803, -122.458
+Irving St & 5th Ave, 37.7642, -122.462
+Irving St & 6th Ave, 37.7642, -122.463
+Clipper St & Douglass St, 37.7487, -122.438
+Ulloa St & Wawona St, 37.7414, -122.467
+Ulloa St & Claremont St, 37.7408, -122.465
+20th St & Missouri St, 37.76, -122.396
+20th St & Pennsylvania Ave, 37.7601, -122.394
+Leavenworth St & Turk St, 37.7827, -122.414
+Jones St & Ellis St, 37.7848, -122.413
+Jones St & Turk St, 37.783, -122.412
+Jerrold Ave & Donahue St, 37.7282, -122.371
+Kirkwood Ave & Earl St, 37.7287, -122.373
+Ingalls St & LaSalle Ave, 37.7306, -122.381
+Ingalls St & Oakdale Ave, 37.7304, -122.383
+Palou Ave & 3rd St, 37.7342, -122.391
+Ingalls St & Kiska Rd, 37.731, -122.38
+Duboce Ave & Church St, 37.7694, -122.429
+Ingalls St & Palou Ave, 37.7299, -122.383
+Clipper St & Grand View Ave, 37.7483, -122.442
+Vincente St & West Portal Ave, 37.7398, -122.467
+South Van Ness Ave & Market St, 37.7751, -122.419
+Van Ness Ave & McAllister St, 37.78, -122.42
+Van Ness Ave & Eddy St, 37.7829, -122.421
+Van Ness Ave & Geary Blvd, 37.7856, -122.421
+Van Ness Ave & Bush St, 37.7884, -122.422
+Van Ness Ave & Clay St, 37.7921, -122.423
+Van Ness Ave & Pacific St, 37.7948, -122.423
+Van Ness Ave & Vallejo St, 37.7968, -122.424
+Van Ness Ave & Union St, 37.7985, -122.424
+Van Ness Ave & Jackson St, 37.794, -122.423
+Van Ness Ave & Sacramento St, 37.7913, -122.423
+Van Ness Ave & Sutter St, 37.7876, -122.422
+Van Ness Ave & O'Farrell St, 37.7848, -122.421
+Van Ness Ave & Market St, 37.7752, -122.419
+Sunset Blvd & Vicente St, 37.7386, -122.494
+Sunset Blvd & Yorba St, 37.7349, -122.494
+1725 Sunnydale Ave, 37.7128, -122.42
+1800 Sunnydale Ave, 37.713, -122.42
+1900 Sunnydale Ave, 37.7134, -122.421
+1901 Sunnydale Ave, 37.7132, -122.421
+Sunnydale Ave & Cora St, 37.71, -122.409
+Sunnydale Ave & Garrison Ave, 37.711, -122.413
+Sunnydale Ave / McLaren School, 37.7141, -122.424
+Sunnydale Ave & Rutland St, 37.7099, -122.409
+Sunnydale Ave & Sawyer St, 37.7116, -122.415
+Sunnydale Ave & Schwerin St, 37.7106, -122.411
+Sunnydale Ave & Talbert St, 37.7094, -122.407
+Sutter St & Baker St, 37.7849, -122.443
+Sutter St & Buchanan St, 37.7866, -122.43
+Sutter St & Divisadero St, 37.7853, -122.44
+Sutter St & Fillmore St, 37.7862, -122.433
+Sutter St & Gough St, 37.7872, -122.425
+Sutter St & Hyde St, 37.7882, -122.417
+Sutter St & Jones St, 37.7886, -122.414
+Sutter St & Kearny St, 37.7898, -122.404
+Sutter St & Larkin St, 37.788, -122.419
+Sutter St & Leavenworth St, 37.7884, -122.415
+Sutter St & Laguna St, 37.7867, -122.429
+Sutter St & Mason St, 37.7891, -122.41
+Sutter St & Octavia St, 37.7869, -122.427
+Sutter St & Polk St, 37.7878, -122.42
+Sutter St & Powell St, 37.7893, -122.409
+Sutter St & Presidio Ave, 37.7844, -122.446
+Sutter St & Sansome St, 37.7903, -122.401
+Sutter St & Scott St, 37.7855, -122.438
+Sutter St & Steiner St, 37.7859, -122.435
+Sutter St & Stockton St, 37.7895, -122.407
+Sutter St & Taylor St, 37.7889, -122.412
+Sutter St & Van Ness Ave, 37.7876, -122.422
+Taraval St & 17th Ave, 37.7431, -122.474
+Taraval St & 19th Ave, 37.7431, -122.475
+Taraval St & 22nd Ave, 37.7429, -122.478
+Taraval St & 23rd Ave, 37.7429, -122.48
+Taraval St & 26th Ave, 37.7428, -122.483
+Taraval St & 30th Ave, 37.7426, -122.487
+Taraval St & 32nd Ave, 37.7425, -122.489
+Taraval St & 40th Ave, 37.7421, -122.498
+Taraval St & 42nd Ave, 37.742, -122.5
+Taraval St & 44th Ave, 37.7419, -122.502
+Taraval St & 46th Ave, 37.7418, -122.504
+Taraval St & Sunset Blvd, 37.7423, -122.494
+Taylor St & Bay St, 37.8052, -122.415
+Taylor St & Columbus Ave, 37.8038, -122.415
+Taylor St & Francisco St, 37.8044, -122.415
+115 Telegraph Hill Blvd, 37.8018, -122.406
+225 Telegraph Hill Blvd, 37.803, -122.407
+Telegraph Hill Blvd & Filbert St, 37.8018, -122.406
+Union St & Divisadero St, 37.7963, -122.442
+Union St & Fillmore St, 37.7971, -122.436
+Union St & Gough St, 37.7982, -122.427
+Union St & Grant Ave, 37.8007, -122.408
+Union St & Hyde St, 37.7993, -122.419
+Union St & Jones St, 37.7997, -122.416
+Union St & Kearny St, 37.8009, -122.406
+Union St & Larkin St, 37.7991, -122.421
+Union St & Leavenworth St, 37.7994, -122.418
+Union St & Laguna St, 37.7978, -122.43
+Union St & Mason St, 37.8001, -122.412
+Union St & Montgomery St, 37.8011, -122.404
+Union St & Pierce St, 37.7967, -122.439
+Union St & Polk St, 37.7988, -122.423
+Union St & Stockton St, 37.8004, -122.409
+Union St & Taylor St, 37.7999, -122.414
+Union St & Van Ness Ave, 37.7986, -122.424
+University St & Bacon St, 37.7251, -122.414
+University St & Felton St, 37.7274, -122.414
+University St & Woolsey St, 37.7227, -122.413
+Upper Ter & Buena Vista Ave West, 37.7658, -122.443
+Upper Ter & Masonic Ave, 37.7654, -122.443
+Van Ness Ave & Chestnut St, 37.8026, -122.425
+Van Ness Ave & Bay St, 37.8043, -122.425
+Vicente St & 30th Ave, 37.7388, -122.487
+Vicente St & 47th Ave, 37.7381, -122.505
+Vicente St & West Portal Ave, 37.7397, -122.467
+Van Dyke Ave & Jennings St, 37.727, -122.389
+Van Dyke Ave & Keith St, 37.7281, -122.39
+Vesta St & Phelps St, 37.7304, -122.4
+Visitacion Ave & Britton St, 37.7128, -122.412
+Visitacion Ave & Bay Shore Blvd, 37.7106, -122.404
+Townsend St & Lusk St, 37.7779, -122.394
+Taraval St & 15th Ave, 37.7432, -122.471
+Grove St & Gough St, 37.7778, -122.423
+Grove St & Laguna St, 37.7774, -122.426
+Sunrise Way & Santos St, 37.7107, -122.418
+Santos St & Sunrise Way, 37.7106, -122.419
+Pacific Ave & Powell St, 37.7966, -122.409
+Seven Seas Ave & Bruton St, 37.8203, -122.372
+22nd St & Illinois St, 37.758, -122.388
+23rd St & 3rd St, 37.7555, -122.388
+25th Ave & California St, 37.7836, -122.485
+Folsom St & 25th St, 37.751, -122.414
+Folsom St & Bessie St, 37.7469, -122.414
+Folsom St & Cortland Ave, 37.7389, -122.413
+Folsom St & Crescent Ave, 37.7349, -122.414
+Folsom St & Ogden St, 37.736, -122.414
+Folsom St & Precita Ave, 37.7471, -122.413
+Folsom St & Stoneman St, 37.7453, -122.413
+Folsom St & Tompkins St, 37.7372, -122.413
+Font Blvd & Arballo Dr, 37.7218, -122.482
+Font Blvd & Chumasero Dr, 37.7152, -122.473
+Font Blvd & Cambon Dr, 37.7159, -122.474
+Font Blvd & Juan Bautista Cir, 37.7177, -122.477
+Frederick St & Arguello Blvd, 37.7661, -122.458
+Frederick St & Ashbury St, 37.7673, -122.447
+Frederick St & Clayton St, 37.7671, -122.448
+Frederick St & Stanyan St, 37.7664, -122.453
+Frederick St & Willard St, 37.7662, -122.455
+Fremont St & Market St, 37.7916, -122.398
+Don Chee Way/Steuart St, 37.7941, -122.393
+Marina Blvd & Laguna St, 37.8051, -122.432
+Fulton St & 4th Ave, 37.774, -122.462
+Fulton St & 6th Ave, 37.7736, -122.464
+Fulton St & 8th Ave, 37.7735, -122.466
+Fulton St & 10th Ave, 37.7733, -122.468
+Fulton St & 18th Ave, 37.773, -122.477
+Fulton St & 22nd Ave, 37.7728, -122.481
+Fulton St & 25th Ave, 37.7726, -122.484
+Fulton St & 28th Ave, 37.7724, -122.487
+Wilde Ave & Brussels St, 37.7164, -122.401
+Wilde Ave & Delta St, 37.7178, -122.407
+Wilde Ave & Girard St, 37.7166, -122.4
+Wilde Ave & Goettingen St, 37.7163, -122.402
+Winston Dr & 20th Ave, 37.727, -122.476
+Winston Dr & Buckingham Way, 37.7281, -122.478
+Winston Dr & Lake Merced Blvd, 37.7271, -122.483
+Wisconsin St & 25th St, 37.7523, -122.399
+Wisconsin St & Connecticut St, 37.7534, -122.399
+Williams Ave & 3rd St, 37.7294, -122.393
+Williams Ave & Reddy St, 37.7297, -122.395
+Woolsey St & Bowdoin St, 37.7235, -122.409
+Woolsey St & Hamilton St, 37.7237, -122.408
+Woolsey St & University St, 37.7227, -122.412
+Whitney St & Fairmount Street, 37.7389, -122.427
+Whitney Young Cir & Progress St, 37.7333, -122.383
+Cross Over Dr & Fulton St, 37.7724, -122.484
+Yerba Buena Ave & Brentwood Ave, 37.7336, -122.459
+Yerba Buena Ave & Hazelwood Ave, 37.7346, -122.46
+Yerba Buena Ave & Ravenwood Dr, 37.7353, -122.461
+Yerba Buena Ave & Saint Elmo Way, 37.7326, -122.459
+Metro Castro Station/Outbound, 37.7627, -122.435
+Forest Hill Station Outbound, 37.7482, -122.459
+Metro Montgomery Station/Outbound, 37.7888, -122.402
+Metro Powell Station/Outbound, 37.7843, -122.408
+Van Ness Station Outbound, 37.7752, -122.419
+Metro Civic Center Station/Outbd, 37.7787, -122.415
+Metro Church Station/Outbound, 37.7673, -122.429
+7th St & Bryant St, 37.7746, -122.405
+Avenue B & 9th Ave, 37.8232, -122.375
+Blanken Ave & Gillette Ave, 37.711, -122.397
+Blanken Ave & Nueva Ave, 37.7112, -122.397
+Blanken Ave & Peninsula Ave, 37.7116, -122.399
+Blanken Ave & Tunnel Ave, 37.712, -122.401
+Crestline Dr & Burnett Ave, 37.7493, -122.445
+831 Ellsworth St, 37.7333, -122.415
+Folsom St & 2nd St, 37.7855, -122.397
+Frederick St & Masonic St, 37.7673, -122.445
+Hahn St & Visitacion Ave, 37.7133, -122.415
+Lincoln Blvd & Girard Rd, 37.8006, -122.454
+Lombard & Richardson Ave, 37.7987, -122.445
+Oakdale Ave & Loomis St, 37.7425, -122.404
+Rutland St & Arleta Ave, 37.7139, -122.407
+Fulton St & 30th Ave, 37.7722, -122.489
+Geary Blvd & Park Presidio Blvd, 37.7807, -122.473
+Geary St & Powell St, 37.7874, -122.408
+Geary Blvd & Presidio Ave, 37.7825, -122.447
+Geary Blvd & Scott St, 37.7838, -122.438
+Geary Blvd & Spruce St, 37.7818, -122.453
+Geary Blvd & Stanyan St, 37.7813, -122.456
+Geary Blvd & St Joseph'S Ave, 37.7828, -122.443
+Geary St & Stockton St, 37.7876, -122.407
+Geary St & Taylor St, 37.787, -122.412
+Geary Blvd & Van Ness Ave, 37.7857, -122.422
+Geary Blvd & Webster St, 37.7846, -122.431
+Concourse Dr at Acad of Sciences, 37.7704, -122.466
+Golden Gate Bridge/Parking Lot, 37.8076, -122.475
+Golden Gate Br Tunnel/Merchant Rd, 37.8067, -122.476
+Great Hwy near Beach Chalet, 37.7679, -122.51
+Lower Great Hwy & Rivera St, 37.7454, -122.508
+Gilman Ave & 3rd St, 37.7225, -122.395
+Gilman Ave & Griffith St, 37.7182, -122.388
+Gilman Ave & Ingalls St, 37.7203, -122.392
+Gilman Ave & Jennings St, 37.7214, -122.394
+San Jose Ave/Glen Park Station, 37.7325, -122.433
+Gennessee St & Flood Ave, 37.73, -122.451
+1650 Geneva Ave, 37.7119, -122.428
+1721 Geneva Ave, 37.7111, -122.426
+1750 Geneva Ave, 37.7107, -122.426
+Geneva Ave/Balboa Park BART, 37.7208, -122.447
+Geneva Ave & Castillo St, 37.7079, -122.418
+Geneva Ave & Cayuga Ave, 37.7189, -122.444
+Kiska Rd & Reardon Rd, 37.73, -122.377
+Kearny St & Bush St, 37.791, -122.404
+Kearny St & California St, 37.7929, -122.404
+Kearny St & Clay St, 37.7947, -122.405
+Kearny St & Geary St, 37.7881, -122.403
+Kearny St & Jackson St, 37.7961, -122.405
+Kearny St & North Point St, 37.8072, -122.407
+Kearny St & Pacific Ave, 37.7973, -122.405
+Kearny St & Sutter St, 37.7897, -122.404
+Kiska Rd & Dormitory Rd, 37.7299, -122.375
+1100 Lake Merced Blvd, 37.7091, -122.485
+Lake Merced Blvd & Font Blvd, 37.7242, -122.485
+Lake Merced Blvd & Lake Merced Hills Blvd, 37.7115, -122.485
+Lake Merced & Middlefield Dr, 37.7296, -122.486
+Lake Merced Blvd/SFSU, 37.7261, -122.484
+La Playa St & Cabrillo St, 37.7732, -122.51
+La Playa St & Fulton St, 37.7717, -122.51
+Larkin St & Beach St, 37.8063, -122.422
+Larkin St & Eddy St, 37.7832, -122.417
+Larkin St & Golden Gate Ave, 37.7817, -122.417
+Larkin St & Grove St, 37.7789, -122.417
+3rd St & Paul Ave, 37.7223, -122.396
+Broadway & Grant Ave, 37.7978, -122.407
+Middle Point Rd & Hare St, 37.7344, -122.379
+Grafton Ave & Plymouth Ave, 37.7201, -122.457
+Grafton Ave & Capitol Ave, 37.7201, -122.459
+Grafton Ave & Jules Ave, 37.7201, -122.461
+Garfield St & Victoria St, 37.7198, -122.465
+90 Buckingham Way, 37.726, -122.477
+91 Buckingham Way, 37.726, -122.477
+170 Buckingham Way, 37.7259, -122.479
+190 Buckingham Way, 37.7259, -122.479
+280 Buckingham Way, 37.7269, -122.48
+Bush St & Hyde St, 37.7892, -122.417
+Bush St & Leavenworth St, 37.7893, -122.415
+Buena Vista Ave E & Buena Vista Ter, 37.7677, -122.44
+Buena Vista Ter & Buena Vista Ave E, 37.7688, -122.438
+Buena Vista Ter & Roosevelt Way, 37.7668, -122.438
+California St & 4th Ave, 37.7854, -122.462
+California St & 7th Ave, 37.7848, -122.465
+California St & 10th Ave, 37.7847, -122.469
+California St & 12th Ave, 37.7846, -122.471
+California St & 16th Ave, 37.7844, -122.475
+California St & 19th Ave, 37.7842, -122.478
+California St & 22nd Ave, 37.7841, -122.482
+California St & 25th Ave, 37.784, -122.485
+California St & 28th Ave, 37.7838, -122.488
+California St & 30th Ave, 37.7837, -122.491
+California St & Arguello Blvd, 37.7857, -122.459
+California St & Baker St, 37.7877, -122.444
+California St & Cherry St, 37.786, -122.457
+California St & Divisadero St, 37.7881, -122.441
+California St & Drumm St, 37.7937, -122.396
+Larkin St & O'Farrell St, 37.7851, -122.418
+Lawton St & 7th Ave, 37.7586, -122.464
+Lawton St & 9th Ave, 37.7585, -122.466
+Lawton St & 11th Ave, 37.7584, -122.468
+Lawton St & Funston Ave, 37.7583, -122.47
+Lawton St & Lomita Ave, 37.7591, -122.472
+Leavenworth St & Bush St, 37.7892, -122.415
+Leavenworth St & California St, 37.7911, -122.416
+Leavenworth St & Clay St, 37.7929, -122.416
+Leavenworth St & Geary St, 37.7864, -122.415
+Leavenworth St & Jackson St, 37.7947, -122.416
+Leavenworth St & O'Farrell St, 37.7855, -122.415
+Leavenworth St & Pine St, 37.7902, -122.415
+Leavenworth St & Post St, 37.7873, -122.415
+Leavenworth St & Sacramento St, 37.7921, -122.416
+Leavenworth St & Sutter St, 37.7883, -122.415
+Legion of Honor, 37.785, -122.5
+Laguna Honda Blvd & Balceta Ave, 37.7454, -122.457
+Geneva Ave & Howth St, 37.7221, -122.45
+Geneva Ave & Madrid St, 37.7148, -122.438
+Geneva Ave & Munich St, 37.7129, -122.433
+Geneva Ave & Moscow St, 37.7133, -122.434
+Geneva Ave & Naples St, 37.7144, -122.436
+Geneva Ave & Prague St, 37.7129, -122.432
+Geneva Ave & Santos St, 37.7084, -122.42
+Gough St & Sacramento St, 37.791, -122.426
+Grafton Ave & Granada Ave, 37.72, -122.457
+Grafton Ave & Harold Ave, 37.7201, -122.453
+Grafton Ave & Lee St, 37.72, -122.454
+Grove St & Van Ness Ave, 37.7782, -122.42
+Grand View Ave & 21st St, 37.755, -122.44
+Gateview Ave & Bayside Dr, 37.8298, -122.375
+Gateview Ave & Mason Ct, 37.8282, -122.377
+Gateview Ave & Northpoint Dr, 37.8298, -122.373
+Hahn St & Sunnydale Ave, 37.712, -122.416
+Haight St & Baker St, 37.7709, -122.441
+Haight St & Buchanan St, 37.7726, -122.427
+Haight St & Buena Vista East Ave, 37.7707, -122.441
+Masonic Ave & Haight St, 37.7702, -122.445
+Masonic Ave & Hayes St, 37.7741, -122.446
+Masonic Ave & Oak St, 37.772, -122.446
+Masonic Ave & Turk St, 37.7788, -122.447
+Metro Church Station/Downtown, 37.7672, -122.429
+Metro Civic Center Station/Downtn, 37.7797, -122.413
+Metro Castro Station/Downtown, 37.7626, -122.435
+Metro Forest Hill Station/Downtown, 37.7484, -122.459
+Metro Montgomery Station/Downtown, 37.7892, -122.401
+Noe St & 27th St, 37.7467, -122.431
+Noe St & 28th St, 37.7452, -122.431
+Noe St & 29th St, 37.7433, -122.431
+Noe St & 30th St, 37.742, -122.431
+Noriega St & 16th Ave, 37.7553, -122.473
+Noriega St & 24th Ave, 37.754, -122.483
+Noriega St & 25th Ave, 37.7539, -122.483
+Noriega St & 27th Ave, 37.7538, -122.485
+Noriega St & 28th Ave, 37.7539, -122.486
+Noriega St & 29th Ave, 37.7537, -122.487
+Noriega St & 30th Ave, 37.7538, -122.489
+Noriega St & 31st Ave, 37.7536, -122.489
+Noriega St & 34th Ave, 37.7536, -122.492
+Noriega St & 38th Ave, 37.7534, -122.497
+Noriega St & 39th Ave, 37.7532, -122.498
+Noriega St & 40th Ave, 37.7533, -122.499
+Noriega St & 41st Ave, 37.7531, -122.5
+Noriega St & 42nd Ave, 37.7532, -122.501
+Noriega St & 43rd Ave, 37.753, -122.502
+Noriega St & 44th Ave, 37.7532, -122.503
+Noriega St & 45th Ave, 37.7529, -122.504
+Noriega St & 46th Ave, 37.753, -122.506
+Noriega St & 48th Ave, 37.7529, -122.508
+Noriega St & Sunset Blvd, 37.7535, -122.495
+Northridge Rd & Dormitory Rd, 37.7303, -122.374
+Northridge Rd & Harbor Rd, 37.731, -122.377
+Northridge Rd & Ingalls St, 37.7316, -122.379
+Nevada St & Cortland Ave, 37.7401, -122.411
+Oakdale Ave & Barneveld Ave, 37.7419, -122.403
+Oakdale Ave & Baldwin Ct, 37.7294, -122.381
+Oakdale Ave & Griffith St, 37.7282, -122.379
+Oakdale Ave & Ingalls St, 37.7302, -122.383
+Ocean Ave & Aptos Ave, 37.7283, -122.468
+Ocean Ave/Balboa Park Bart Station, 37.7229, -122.447
+Ocean Ave & Cayuga Ave, 37.7237, -122.439
+Ocean Ave/CCSF Pedestrian Bridge, 37.723, -122.451
+Ocean Ave & Cerritos Ave, 37.7273, -122.467
+Ocean Ave & Dorado Ter, 37.725, -122.461
+Ocean Ave & Fairfield Way, 37.726, -122.464
+Ocean Ave & Howth St, 37.723, -122.45
+Ocean Ave & Junipero Serra Blvd, 37.731, -122.472
+Ocean Ave & Jules Ave, 37.725, -122.461
+Ocean Ave & Lee St, 37.7235, -122.454
+Ocean Ave & Mission St, 37.7239, -122.436
+Ocean Ave & Miramar Ave, 37.7244, -122.458
+Ocean Ave & Persia Ave, 37.7238, -122.436
+Ocean Ave & San Jose Ave, 37.723, -122.445
+Ocean Ave & San Jose St, 37.7229, -122.444
+Ocean Ave & San Leandro Way, 37.73, -122.469
+Chicago Way & Naylor St, 37.7098, -122.432
+Chicago Way & South Hill Blvd, 37.7106, -122.431
+Chenery St & 30th St, 37.742, -122.426
+Chenery St & Castro St, 37.7346, -122.432
+Chenery St & Fairmount St, 37.7389, -122.426
+Chenery St & Mateo St, 37.7365, -122.429
+Chenery St & Miguel St, 37.7371, -122.428
+Chenery St & Natick St, 37.7346, -122.432
+Chenery St & Randall St, 37.7399, -122.426
+Chenery St & Roanoke St, 37.7356, -122.43
+Chumasero Dr & Brotherhood Way, 37.7131, -122.473
+Chumasero Dr & Font Blvd, 37.715, -122.473
+Church St & 16th St, 37.7646, -122.429
+Church St & 18th St, 37.7615, -122.428
+Church St & 24th St, 37.7518, -122.427
+Church St & 27th St, 37.747, -122.427
+Church St & 29th St, 37.7436, -122.427
+Church St & 30th St, 37.7422, -122.426
+Church St & Clipper St, 37.7494, -122.427
+Church St & Day St, 37.7428, -122.427
+Clay St & Drumm St, 37.7953, -122.397
+Clay St & Franklin St, 37.7919, -122.424
+Clay St & Front St, 37.7951, -122.399
+Clay St & Grant Ave, 37.7943, -122.406
+Clay St & Hyde St, 37.7928, -122.418
+Clay St & Jones St, 37.7932, -122.415
+Clay St & Kearny St, 37.7945, -122.404
+Clay St & Larkin St, 37.7925, -122.42
+Clay St & Leavenworth St, 37.793, -122.416
+Clay St & Mason St, 37.7937, -122.411
+Clay St & Montgomery St, 37.7947, -122.403
+Clay St & Polk St, 37.7924, -122.421
+Clay St & Powell St, 37.7938, -122.41
+Clay St & Sansome St, 37.7948, -122.401
+Clay St & Stockton St, 37.7941, -122.408
+Clay St & Taylor St, 37.7934, -122.413
+Clay St & Van Ness Ave, 37.7921, -122.423
+Clarendon Ave & Clarendon Woods S, 37.7517, -122.458
+Clarendon Ave & Galewood Circle, 37.7531, -122.456
+Clarendon Ave & Olympia Way, 37.7516, -122.456
+Clarendon Ave & Panorama Dr, 37.7537, -122.456
+Powell St & Filbert St, 37.8013, -122.411
+Powell St & Francisco St, 37.8051, -122.412
+Powell St & Geary St, 37.7875, -122.408
+Powell St & Jackson St, 37.7954, -122.41
+Powell St & Lombard St, 37.8029, -122.411
+Powell St & Market St, 37.7847, -122.408
+Powell St & North Point St, 37.8067, -122.412
+Powell St & O'Farrell St, 37.7865, -122.408
+Powell St & Pine St, 37.7911, -122.409
+Powell St & Post St, 37.7884, -122.409
+Powell St & Sacramento St, 37.7929, -122.409
+Powell St & Sutter St, 37.7891, -122.408
+Prague St & Cordova Ave, 37.7102, -122.435
+Prague St & Drake St, 37.71, -122.437
+Prague St & Persia Ave, 37.719, -122.427
+Prague St & Russia Ave, 37.7176, -122.428
+Parkridge Dr & Burnett Ave, 37.7504, -122.446
+Parkridge Dr & Crestline Dr, 37.7523, -122.446
+Presidio Ave & California St, 37.7874, -122.447
+Presidio Ave & Clay St, 37.7892, -122.447
+Presidio Ave & Geary Blvd, 37.7827, -122.446
+Presidio Ave & Jackson St, 37.7909, -122.448
+Presidio Ave & Sutter St, 37.7845, -122.446
+Presidio Blvd & Simonds Loop, 37.7965, -122.452
+Presidio Blvd & Sumner Ave, 37.7967, -122.452
+Point Lobos Ave & 42nd Ave, 37.7797, -122.503
+Point Lobos Ave & 44th Ave, 37.7798, -122.505
+Portola Dr & Laguna Honda Blvd, 37.7431, -122.455
+Portola Dr & San Pablo Ave, 37.7404, -122.461
+Portola Dr & Rex Ave, 37.7409, -122.458
+Potrero Ave At SF General Hospital, 37.7554, -122.406
+Portola Dr & San Lorenzo Ave, 37.7399, -122.464
+Portola Dr & Teresita Blvd, 37.7453, -122.452
+Portola Dr & Waithman Way, 37.7416, -122.457
+Portola Dr & Woodside Ave, 37.7453, -122.452
+Post St & Gough St, 37.7862, -122.425
+Post St & Grant Ave, 37.7886, -122.406
+Post St & Hyde St, 37.7872, -122.416
+Post St & Jones St, 37.7877, -122.413
+Point Lobos Ave & 46th Ave, 37.78, -122.507
+Quintara St & 12th Ave, 37.749, -122.468
+Quintara St & 16th Ave, 37.7487, -122.473
+Quintara St & 19th Ave, 37.7487, -122.476
+Quintara St & 22nd Ave, 37.7486, -122.479
+Quintara St & 24th Ave, 37.7485, -122.481
+Quintara St & 26th Ave, 37.7484, -122.483
+Haight St & Clayton St, 37.7698, -122.449
+Haight St & Divisadero St, 37.7713, -122.437
+Haight St & Fillmore St, 37.7721, -122.431
+Haight St & Laguna St, 37.7728, -122.426
+Haight St & Masonic Ave, 37.7702, -122.445
+Haight St & Pierce St, 37.7717, -122.434
+Haight St & Stanyan St, 37.7693, -122.453
+Hampshire St & 24th St, 37.7528, -122.407
+Harrison St & 2nd St, 37.7842, -122.395
+Harrison St & 3rd St, 37.7824, -122.398
+Harrison St & 4th St, 37.7807, -122.4
+Harrison St & 5th St, 37.7789, -122.402
+Harrison St & 6th St, 37.7771, -122.404
+Harrison St & 7th St, 37.7755, -122.406
+Harrison St & 8th St, 37.7739, -122.409
+Harrison St & 9th St, 37.7724, -122.41
+Hawes St & Gilman Ave, 37.7192, -122.39
+Hayes St & Baker St, 37.7746, -122.441
+Hayes St & Buchanan St, 37.7763, -122.428
+Hayes St & Central Ave, 37.7742, -122.444
+Hayes St & Clayton St, 37.7736, -122.449
+Hayes St & Divisadero St, 37.775, -122.438
+Hayes St & Fillmore St, 37.7758, -122.432
+Hayes St & Gough St, 37.7769, -122.423
+Hayes St & Larkin St, 37.7777, -122.417
+Hayes St & Laguna St, 37.7765, -122.426
+Hayes St & Lyon St, 37.7743, -122.443
+Hayes St & Masonic Ave, 37.774, -122.446
+Hayes St & Pierce St, 37.7755, -122.434
+Hayes St & Stanyan St, 37.773, -122.454
+Hayes St & Steiner St, 37.7756, -122.433
+Hayes St & Van Ness Ave, 37.7773, -122.42
+Hayes St & Webster St, 37.7761, -122.43
+Hermann St & Fillmore St, 37.7703, -122.43
+Halleck St/Army Headquarters, 37.802, -122.454
+Holyoke St & Wayland St, 37.7252, -122.408
+Hoffman Ave & 22nd St, 37.754, -122.441
+Hoffman Ave & 23rd St, 37.7524, -122.441
+Holloway Ave & Beverly St, 37.7216, -122.472
+Holloway Ave & Junipero Serra Blvd, 37.7216, -122.473
+Howth St & Geneva Ave, 37.7219, -122.45
+Howth St & Mt Vernon Ave, 37.7198, -122.452
+Howth St & Niagra Ave, 37.7206, -122.451
+Hudson Ave & Ardath Ct, 37.7347, -122.383
+Rivera St & 37th Ave, 37.7458, -122.495
+Rivera St & 46th Ave, 37.7454, -122.505
+Rivera St & 48th Ave, 37.7453, -122.507
+Revere Ave & 3rd St, 37.7324, -122.391
+Revere Ave & Ingalls St, 37.7285, -122.385
+Revere Ave & Jennings St, 37.7295, -122.386
+Revere Ave & Lane St, 37.7317, -122.39
+San Jose Ave & Farallones St, 37.7142, -122.452
+San Jose Ave & Lakeview Ave, 37.7163, -122.45
+San Jose Ave & Niagra Ave, 37.7195, -122.447
+San Jose Ave & Ocean Ave, 37.7231, -122.445
+San Jose Ave & Randall St, 37.7397, -122.424
+San Jose Ave & Santa Rosa Ave, 37.729, -122.44
+San Jose Ave & Santa Ynez Ave, 37.7259, -122.442
+Sacramento St & Battery St, 37.7942, -122.4
+Sacramento St & Buchanan St, 37.7904, -122.431
+Sacramento St & Cherry St, 37.7869, -122.457
+Sacramento St & Davis St, 37.7946, -122.398
+Sacramento St & Fillmore St, 37.7899, -122.434
+Sacramento St & Franklin St, 37.7912, -122.424
+Sacramento St & Gough St, 37.7909, -122.426
+Sacramento St & Grant Ave, 37.7934, -122.406
+Sacramento St & Hyde St, 37.792, -122.417
+Sacramento St & Jones St, 37.7924, -122.414
+Sacramento St & Kearny St, 37.7936, -122.405
+Sacramento St & Larkin St, 37.7918, -122.42
+Sacramento St & Leavenworth St, 37.7922, -122.416
+Sacramento St & Laguna St, 37.7906, -122.429
+Sacramento St & Montgomery St, 37.7938, -122.403
+Sacramento St & Octavia St, 37.7908, -122.427
+Sacramento St & Polk St, 37.7915, -122.421
+Sacramento St & Powell St, 37.793, -122.409
+Sacramento St & Sansome St, 37.7941, -122.401
+Sacramento St & Sproule Ln, 37.7927, -122.412
+Sacramento St & Stockton St, 37.7933, -122.408
+Sacramento St & Van Ness Ave, 37.7914, -122.422
+Sacramento St & Webster St, 37.7901, -122.432
+274 Sagamore St, 37.7114, -122.462
+Sagamore St & Capitol Ave, 37.7115, -122.459
+Sagamore St & Orizaba Ave, 37.7113, -122.462
+Sansome St & Pine St, 37.792, -122.401
+Sansome St & Sacramento St, 37.7941, -122.401
+795 Corbett Ave, 37.7541, -122.443
+800 Corbett Ave, 37.754, -122.443
+925 Corbett Ave, 37.7521, -122.443
+956 Corbett Ave, 37.7517, -122.444
+Corbett Ave & Clayton St, 37.7589, -122.446
+Corbett Ave & Cuesta Ct, 37.7509, -122.444
+Corbett Ave & Danvers St, 37.7612, -122.444
+Corbett Ave & Douglass St, 37.7621, -122.44
+Corbett Ave & Graystone Ter, 37.7564, -122.443
+Corbett Ave & Hattie St, 37.7617, -122.441
+Corbett Ave & Hopkins Ave, 37.7529, -122.444
+Corbett Ave & Iron Aly, 37.7578, -122.445
+Corbett Ave & Mars St, 37.7605, -122.444
+Corbett Ave & Ord St, 37.7619, -122.44
+Corbett Ave & Romain St, 37.7555, -122.443
+Crescent Ave & Agnon Ave, 37.7351, -122.422
+Crescent Ave & Andover St, 37.735, -122.417
+Crescent Ave & Arnold Ave, 37.735, -122.42
+Crescent Ave & College Ave, 37.7353, -122.424
+Crescent Ave & Folsom St, 37.7348, -122.414
+Crescent Ave & Leese St, 37.7352, -122.423
+Crescent Ave & Mission St, 37.7354, -122.424
+Crescent Ave & Murray St, 37.7351, -122.42
+Crescent Ave & Porter St, 37.7349, -122.418
+Crescent Ave & Putnam St, 37.735, -122.411
+Crescent Ave & Roscoe St, 37.7351, -122.419
+Carmel St & Belvedere St, 37.7609, -122.448
+Carmel St & Twin Peaks Blvd, 37.7609, -122.447
+Crespi Dr & Varela Ave, 37.7201, -122.476
+40 Crestline Dr, 37.7504, -122.447
+74 Crestline Dr, 37.7518, -122.446
+Fulton St & 33rd Ave, 37.7722, -122.493
+Fulton St & 36th Ave, 37.7721, -122.496
+Fulton St & 37th Ave, 37.7719, -122.497
+Fulton St & 46th Ave, 37.7716, -122.507
+Fulton St & Arguello Blvd, 37.7744, -122.458
+Fulton St & Clayton St, 37.7754, -122.45
+Fulton St & Great Hwy, 37.7714, -122.511
+Fulton St & La Playa St, 37.7713, -122.509
+Fulton St & Masonic Ave, 37.7758, -122.446
+Fulton St & Park Presidio Blvd, 37.7732, -122.472
+Fulton St & Parker Ave, 37.775, -122.453
+Fulton St & Shrader St, 37.775, -122.452
+Fulton St & Stanyan St, 37.7748, -122.455
+Fulton St & Stanyan StW, 37.7748, -122.455
+Fowler Ave & Portola Dr, 37.7444, -122.453
+Garfield St & Beverly St, 37.7197, -122.472
+Garfield St & Bright St, 37.72, -122.463
+Geary Blvd & 3rd Ave, 37.7812, -122.461
+Geary Blvd & 6th Ave, 37.7811, -122.464
+Geary Blvd & 9th Ave, 37.781, -122.468
+Geary Blvd & 17th Ave, 37.7806, -122.476
+Geary Blvd & 20th Ave, 37.7804, -122.48
+Geary Blvd & 22nd Ave, 37.7802, -122.482
+Geary Blvd & 23rd Ave, 37.7802, -122.482
+Geary Blvd & 25th Ave, 37.7802, -122.485
+3rd St & 4th St, 37.7726, -122.39
+Bacon St & San Bruno Ave, 37.7279, -122.403
+Bacon St & Somerset St, 37.7267, -122.407
+Baker Beach Parking Lot SW, 37.7902, -122.482
+Baker St & Greenwich St, 37.7976, -122.446
+Bay St & Midway St, 37.8061, -122.409
+Balboa St & 4th Ave, 37.7774, -122.462
+Balboa St & 6th Ave, 37.7773, -122.464
+Balboa St & 8th Ave, 37.7772, -122.466
+Balboa St & 10th Ave, 37.7771, -122.468
+Balboa St & 12th Ave, 37.777, -122.47
+Balboa St & 17th Ave, 37.7768, -122.476
+Balboa St & 19th Ave, 37.7767, -122.478
+Balboa St & 21st Ave, 37.7766, -122.48
+Balboa St & 23rd Ave, 37.7765, -122.482
+Balboa St & 25th Ave, 37.7764, -122.485
+Balboa St & 28th Ave, 37.7762, -122.488
+Balboa St & 30th Ave, 37.7761, -122.49
+Balboa St & 32nd Ave, 37.776, -122.492
+Balboa St & 34th Ave, 37.7758, -122.494
+Balboa St & 35th Ave, 37.7759, -122.495
+Balboa St & 37th Ave, 37.7758, -122.497
+Balboa St & 40th Ave, 37.7756, -122.5
+Balboa St & 43rd Ave, 37.7755, -122.504
+Balboa St & Arguello Blvd, 37.7775, -122.459
+Balboa St & Park Presidio Blvd, 37.7769, -122.472
+Broderick St & Bay St, 37.8015, -122.445
+Broderick St & Beach St, 37.8034, -122.445
+Broderick St & Francisco St, 37.8006, -122.445
+Broderick St & Jefferson St, 37.8043, -122.445
+Broderick St & North Point St, 37.8025, -122.445
+Broadway & Columbus Ave, 37.7978, -122.406
+Broadway & Montgomery St, 37.7981, -122.404
+Broadway & Steiner St, 37.7941, -122.436
+Broadway & Stockton St, 37.7976, -122.408
+Beale St & Mission St, 37.7919, -122.397
+Beach St & Mason St, 37.8074, -122.414
+Beach St & Polk St, 37.8064, -122.423
+Beach St & Stockton St, 37.8078, -122.411
+Bemis St & Moffitt St, 37.7367, -122.431
+3rd St & 20th St, 37.7608, -122.388
+3rd St & 23rd St, 37.7557, -122.388
+3rd St & Bayview St, 37.7322, -122.392
+3rd St & Brannan St, 37.7793, -122.393
+9th Ave & Lincoln Way, 37.7659, -122.466
+9th Ave & Moraga St, 37.7567, -122.466
+9th Ave & Noriega St, 37.7548, -122.466
+9th Ave & Ortega St, 37.7529, -122.466
+9th St & Avenue H, 37.8252, -122.37
+10th Ave & Ortega St, 37.7527, -122.466
+10th Ave & Pacheco St, 37.7509, -122.466
+10th Ave & Quintara St, 37.7493, -122.466
+11th St & Bryant St, 37.7698, -122.411
+11th St & Harrison St, 37.7707, -122.413
+11th St & Howard St, 37.7733, -122.416
+11th St & Mission St, 37.774, -122.417
+11th St & Market St, 37.7755, -122.419
+14th Ave & Quintara St, 37.7489, -122.471
+14th Ave & Santiago St, 37.745, -122.47
+14th Ave & Taraval St, 37.7434, -122.47
+14th Ave & Ulloa St, 37.7416, -122.47
+14th St & Alpine Ter, 37.7673, -122.437
+14th St & Church St, 37.7678, -122.429
+14th St & Castro St, 37.7674, -122.436
+14th St & Noe St, 37.7675, -122.433
+14th St & Sanchez St, 37.7677, -122.431
+15th Ave & Noriega St, 37.7541, -122.472
+15th Ave & Ortega St, 37.7527, -122.472
+15th Ave & Pacheco St, 37.7508, -122.472
+15th Ave & Quintara St, 37.7489, -122.472
+15th Ave & Taraval St, 37.7431, -122.471
+15th Ave & West Portal Ave, 37.7364, -122.47
+16th Ave & Lawton St, 37.7581, -122.474
+16th Ave & Lomita Ave, 37.757, -122.474
+16th Ave & Moraga St, 37.7563, -122.474
+16th Ave & Noriega St, 37.7542, -122.473
+16th Ave & Ortega St, 37.7524, -122.473
+16th Ave & Pacheco St, 37.7505, -122.473
+16th St & Bryant St, 37.7657, -122.41
+16th St & Church St, 37.7646, -122.429
+16th St & Dolores St, 37.7647, -122.427
+16th St & Mission St, 37.7652, -122.42
+16th St & Potrero Ave, 37.7658, -122.408
+16th St & Shotwell St, 37.7652, -122.416
+16th St & Valencia St, 37.765, -122.422
+17th Ave & Rivera St, 37.747, -122.474
+17th Ave & Santiago St, 37.7451, -122.474
+17th St & Belvedere St, 37.7618, -122.448
+17th St & Clayton St, 37.7619, -122.447
+17th St & Cole St, 37.7617, -122.449
+17th St & Castro St, 37.7626, -122.435
+17th St & Diamond St, 37.7624, -122.437
+Diamond St & 25th St, 37.7496, -122.436
+Diamond St & 26th St, 37.7479, -122.436
+Diamond St & 27th St, 37.7463, -122.436
+Diamond St & 28th St, 37.7447, -122.436
+Diamond St & 29th St, 37.7432, -122.436
+Diamond St & Arbor St, 37.7387, -122.434
+Diamond St & Cesar Chavez St, 37.7471, -122.436
+Diamond St & Bosworth St, 37.7335, -122.434
+Diamond St & Chenery St, 37.7345, -122.434
+Diamond St & Clipper St, 37.7489, -122.436
+Diamond St & Conrad St, 37.7383, -122.436
+Diamond St & Diamond Heights Blvd, 37.7416, -122.435
+Diamond St & Duncan St, 37.7456, -122.436
+Diamond St & Moffitt St, 37.7388, -122.435
+Diamond St & Surrey St, 37.7362, -122.434
+Diamond St & Sussex St, 37.7373, -122.435
+Divisadero St & Beach St, 37.8038, -122.444
+Divisadero St & Bush St, 37.7863, -122.44
+Divisadero St & California St, 37.7882, -122.44
+Divisadero St & Chestnut St, 37.8001, -122.443
+Divisadero St & Clay St, 37.79, -122.441
+Divisadero St & Eddy St, 37.7806, -122.439
+Divisadero St & Francisco St, 37.801, -122.443
+Divisadero St & Geary Blvd, 37.7834, -122.439
+Divisadero St & Haight St, 37.7713, -122.437
+Divisadero St & Hayes St, 37.7751, -122.438
+Divisadero St & Jackson St, 37.7915, -122.441
+Divisadero St & Mcallister St, 37.7779, -122.438
+Divisadero St & North Point St, 37.8028, -122.444
+Divisadero St & Oak St, 37.7732, -122.437
+Divisadero St & Pine St, 37.787, -122.44
+Divisadero St & Sutter St, 37.7853, -122.44
+Division St & Bryant St, 37.7693, -122.411
+Division St & Rhode Island St, 37.7698, -122.403
+Division St & Townsend St, 37.7699, -122.403
+Delta St & Tioga Ave, 37.7173, -122.408
+Douglass St & 24th St, 37.7511, -122.439
+Douglass St & Alvarado St, 37.7535, -122.439
+Drumm St & California St, 37.794, -122.396
+Duncan St & Cameo Way, 37.7452, -122.443
+Duncan St & Diamond Heights Blvd, 37.7453, -122.44
+Earl St & Kirkwood Ave, 37.7288, -122.373
+21st St & Douglass St, 37.7554, -122.439
+22nd Ave & Irving St, 37.7637, -122.48
+22nd Ave & Judah St, 37.7615, -122.48
+22nd Ave & Kirkham St, 37.7596, -122.48
+22nd Ave & Lawton St, 37.7578, -122.48
+22nd Ave & Lincoln Way, 37.7652, -122.48
+22nd Ave & Moraga St, 37.7559, -122.48
+22nd Ave & Noriega St, 37.7543, -122.48
+22nd St & Iowa St, 37.7578, -122.392
+22nd St & Minnesota St, 37.7579, -122.39
+23rd Ave & Irving St, 37.7631, -122.481
+23rd Ave & Judah St, 37.7616, -122.481
+23rd Ave & Kirkham St, 37.7597, -122.481
+23rd Ave & Lawton St, 37.7579, -122.481
+23rd Ave & Lincoln Way, 37.765, -122.482
+23rd Ave & Moraga St, 37.756, -122.481
+23rd Ave & Noriega St, 37.7541, -122.481
+23rd St & Kansas St, 37.7544, -122.403
+23rd St & Rhode Island St, 37.7545, -122.402
+23rd St & Utah St, 37.7544, -122.405
+23rd St & Vermont St, 37.7545, -122.404
+24th St & Bryant St, 37.7529, -122.409
+24th St & Church St, 37.7518, -122.427
+24th St & Castro St, 37.7514, -122.434
+24th St & Diamond St, 37.7511, -122.436
+24th St & Dolores St, 37.7519, -122.425
+24th St & Douglass St, 37.7511, -122.438
+24th St & Folsom St, 37.7526, -122.414
+24th St & Guerrero St, 37.752, -122.423
+24th St & Harrison St, 37.7527, -122.412
+24th St & Hoffman Ave, 37.751, -122.441
+24th St & Mission St, 37.7523, -122.418
+24th St & Potrero Ave, 37.753, -122.407
+24th St & Sanchez St, 37.7516, -122.43
+24th St & South Van Ness Ave, 37.7524, -122.416
+24th St & Valencia St, 37.7522, -122.421
+25th Ave & Balboa St, 37.7764, -122.485
+25th Ave & Clement St, 37.7821, -122.485
+25th Ave & El Camino Del Mar, 37.7875, -122.485
+25th Ave & Fulton St, 37.7727, -122.484
+25th Ave & Geary Blvd, 37.7803, -122.485
+25th St & Connecticut St, 37.7524, -122.396
+25th St & Dakota St, 37.7525, -122.395
+25th St & Potrero Ave, 37.7514, -122.407
+25th St & Wisconsin St, 37.7522, -122.398
+Wisconsin St &  25th St, 37.752, -122.398
+26th St & Castro St, 37.7481, -122.434
+26th St & De Haro St, 37.7509, -122.4
+26th St & Noe St, 37.7483, -122.432
+26th St & Rhode Island St, 37.7507, -122.401
+26th St & Wisconsin St, 37.7511, -122.399
+29th Ave & Vicente St, 37.739, -122.486
+Alemany Blvd & St Charles Ave, 37.7104, -122.469
+Alemany Blvd & Victoria St, 37.7118, -122.465
+Arch St & Alemany Blvd, 37.7117, -122.467
+Arguello Blvd & Balboa St, 37.7771, -122.459
+Arguello Blvd & California St, 37.7856, -122.459
+Arguello Blvd & Clement St, 37.7831, -122.459
+Arguello Blvd & Euclid Ave, 37.7837, -122.459
+Arguello Blvd & Fulton St, 37.7744, -122.458
+Arguello Blvd & Turk St, 37.7775, -122.459
+Ashbury St & Clifford Ter, 37.7643, -122.446
+Ashbury St & Haight St, 37.7699, -122.447
+Ashbury St & Piedmont St, 37.7653, -122.446
+Ashbury St & Waller St, 37.7692, -122.447
+Avenue B & Gateview Ave, 37.827, -122.377
+Avalon Ave & La Grande Ave, 37.7247, -122.424
+Avalon Ave & Peru Ave, 37.7251, -122.423
+Bacon St & Girard St, 37.7274, -122.405
+Bacon St & Goettingen St, 37.7269, -122.406
+Beverly St & Garfield St, 37.7197, -122.472
+Bernal Heights Blvd & Bradford St, 37.7418, -122.41
+Bernal Heights Blvd & Powhattan Ave, 37.7415, -122.411
+Bosworth St & Elk St, 37.7349, -122.44
+Bosworth St & Diamond St, 37.7336, -122.434
+Bosworth St & Lippard Ave, 37.7339, -122.436
+Bosworth St & Marsily St, 37.7335, -122.428
+Bosworth St & Milton St, 37.7335, -122.429
+Bosworth St & Mission St, 37.7337, -122.427
+Bosworth St & Rotteck St, 37.7332, -122.431
+Bowley St & Lincoln Blvd, 37.7921, -122.482
+Bradford St & Bernal Heights Blvd, 37.742, -122.409
+Bradford St & Esmeralda Ave, 37.7429, -122.409
+Burnett Ave & Crestline Dr, 37.7491, -122.445
+Broad St & Capitol Ave, 37.7132, -122.459
+Broad St & Orizaba Ave, 37.7132, -122.462
+Broad St & Plymouth Ave, 37.7132, -122.456
+Bridge View Dr & Scotia Ave, 37.7318, -122.399
+Bridge View Dr & Topeka Ave, 37.7332, -122.398
+Bryant St & 4th St, 37.7795, -122.398
+Bryant St & 5th St, 37.778, -122.4
+Miraloma Dr & Marne Ave, 37.7401, -122.459
+Miraloma Dr & Yerba Buena Ave, 37.7355, -122.461
+Mission St & 1st St, 37.7899, -122.397
+Mission St & 2nd St, 37.7878, -122.4
+Mission St & 3rd St, 37.7865, -122.402
+Mission St & 4th St, 37.7846, -122.404
+Mission St & 5th St, 37.7827, -122.407
+Mission St & 6th St, 37.7812, -122.408
+Mission St & 8th St, 37.7772, -122.414
+Mission St & 9th St, 37.7765, -122.414
+Mission St & 11th St, 37.7749, -122.416
+Mission St & 13th St, 37.7705, -122.42
+Mission St & 14th St, 37.7686, -122.42
+Mission St & 16th St, 37.7651, -122.42
+Mission St & 18th St, 37.7626, -122.419
+Mission St & 20th St, 37.7591, -122.419
+Mission St & 22nd St, 37.7558, -122.419
+Mission St & 24th St, 37.7524, -122.418
+Mission St & 26th St, 37.7495, -122.418
+Mission St & 30th St, 37.7424, -122.422
+4080 Mission St, 37.7322, -122.428
+Mission St & Acton St, 37.7088, -122.453
+Mission St & Allison St, 37.7145, -122.443
+Mission St & Appleton Ave, 37.7389, -122.424
+Mission St & Beale St, 37.7911, -122.396
+Mission St & Bosworth St, 37.7333, -122.427
+Mission St & Cortland Ave, 37.7411, -122.423
+Mission St & Evergreen St, 37.7074, -122.457
+Mission St & Excelsior Ave, 37.7264, -122.434
+Mission St & Flournoy St, 37.7068, -122.459
+Mission St & Foote Ave, 37.7128, -122.445
+Mission St & Francis St, 37.7263, -122.434
+Mission St & Geneva Ave, 37.7165, -122.441
+Mission St & GoeThe St, 37.7074, -122.457
+Mission St & Guttenberg St, 37.7125, -122.445
+Mission St & Highland Ave, 37.7374, -122.424
+Mission St & Italy Ave, 37.7192, -122.439
+Mission St & Lawrence Ave, 37.7095, -122.451
+Mission St & Lowell St, 37.7115, -122.446
+Mission St & Main St, 37.792, -122.395
+Mission St & Mt Vernon Ave, 37.7147, -122.443
+Mission St & Murray St, 37.734, -122.426
+Mission St & Oliver St, 37.7096, -122.45
+Mission St & Onondaga Ave, 37.7213, -122.437
+Mission St & Persia Ave, 37.7234, -122.436
+Farnum St & Moffitt St, 37.7383, -122.434
+Felton St & Amherst St, 37.727, -122.416
+Felton St & Cambridge St, 37.7264, -122.419
+Felton St & Harvard St, 37.726, -122.42
+Felton St & Madison St, 37.7256, -122.422
+Felton St & Peru Ave, 37.7252, -122.423
+Felton St & University St, 37.7274, -122.415
+Fillmore St & Bay St, 37.8026, -122.437
+Fillmore St & Broadway, 37.7942, -122.435
+Fillmore St & Beach St, 37.8044, -122.437
+Fillmore St & Chestnut St, 37.8011, -122.436
+Fillmore St & Cervantes Blvd, 37.8028, -122.437
+Fillmore St & Eddy St, 37.7817, -122.432
+Fillmore St & Golden Gate Ave, 37.7799, -122.432
+Fillmore St & Geary Blvd, 37.7847, -122.433
+Fillmore St & Grove St, 37.777, -122.431
+Fillmore St & Hayes St, 37.7761, -122.431
+Fillmore St & Jackson St, 37.7928, -122.435
+Fillmore St & Jefferson St, 37.8056, -122.437
+Fillmore St & Lombard St, 37.7997, -122.436
+Fillmore St & Mcallister St, 37.7785, -122.432
+Fillmore St & North Point St, 37.8035, -122.437
+Fillmore St & Oak St, 37.7743, -122.431
+Fillmore St & O'Farrell St, 37.7832, -122.433
+Fillmore St & Pine St, 37.788, -122.434
+Fillmore St & Sacramento St, 37.7899, -122.434
+Fillmore St & Sutter St, 37.7861, -122.433
+Fillmore St & Turk St, 37.7802, -122.432
+Fillmore St & Union St, 37.7974, -122.435
+Fitzgerald Ave & Hawes St, 37.7199, -122.39
+Fitzgerald Ave & Ingalls St, 37.721, -122.391
+Fitzgerald Ave & Jennings St, 37.722, -122.393
+Fitzgerald Ave & Keith St, 37.7229, -122.395
+Foerster St & Flood Ave, 37.7298, -122.449
+Foerster St & Judson Ave, 37.7285, -122.449
+Foerster St & Mangels Ave, 37.7332, -122.449
+Foerster St & Teresita Blvd, 37.7342, -122.449
+Folsom St & 1st St, 37.7873, -122.394
+Folsom St & 3rd St, 37.7839, -122.399
+Folsom St & 4th St, 37.782, -122.401
+Folsom St & 5th St, 37.7804, -122.403
+Folsom St & 6th St, 37.7786, -122.405
+Folsom St & 7th St, 37.7766, -122.408
+Folsom St & 8th St, 37.7751, -122.41
+Folsom St & 9th St, 37.7739, -122.411
+Folsom St & 11th St, 37.7719, -122.414
+Folsom St & 14th St, 37.7685, -122.416
+Folsom St & 16th St, 37.7656, -122.415
+Folsom St & 18th St, 37.7622, -122.415
+Folsom St & 22nd St, 37.756, -122.414
+Ocean Ave & Victoria St, 37.726, -122.464
+Ocean Ave & Westgate Dr, 37.7272, -122.466
+O'Farrell St & Grant Ave, 37.7866, -122.406
+O'Farrell St & Larkin St, 37.7851, -122.418
+O'Farrell St & Leavenworth St, 37.7855, -122.414
+O'Farrell St & Powell St, 37.7863, -122.408
+O'Farrell St & Van Ness Ave, 37.7847, -122.421
+Oakpark Dr & Forest Knolls Dr, 37.7553, -122.455
+Olympia Way & Clarendon Ave, 37.7515, -122.456
+Olympia Way & Dellbrook Ave, 37.7513, -122.454
+Olympia Way & Panorama Dr, 37.7513, -122.452
+Orizaba Ave & Broad St, 37.7133, -122.463
+Ortega St & 9th Ave, 37.7528, -122.466
+Ortega St & 10th Ave, 37.7529, -122.466
+Ortega St & 48th Ave, 37.751, -122.507
+100 O'Shaughnessy Blvd, 37.7445, -122.451
+O'Shaughnessy Blvd & Del Vale Ave, 37.7414, -122.446
+O'Shaughnessy Blvd & Malta Dr, 37.7366, -122.443
+150 Otis St, 37.7716, -122.42
+Otis St & 12th St, 37.7728, -122.419
+Pacific Ave & Grant Ave, 37.797, -122.407
+Pacific Ave & Hyde St, 37.7956, -122.418
+Pacific Ave & Jones St, 37.796, -122.415
+Pacific Ave & Kearny St, 37.7972, -122.405
+Pacific Ave & Larkin St, 37.7953, -122.42
+Pacific Ave & Leavenworth St, 37.7958, -122.417
+Pacific Ave & Mason St, 37.7964, -122.412
+Pacific Ave & Montgomery St, 37.7974, -122.404
+Pacific Ave & Polk St, 37.7951, -122.421
+Pacific Ave & Sansome St, 37.7975, -122.402
+Pacific Ave & Taylor St, 37.7962, -122.413
+Palou Ave & Crespi Dr, 37.728, -122.38
+Palou Ave & Hawes St, 37.7287, -122.381
+Palou Ave & Industrial St, 37.7395, -122.401
+Palou Ave & Ingalls St, 37.7294, -122.383
+Palou Ave & Jennings St, 37.7308, -122.385
+Palou Ave & Keith St, 37.7319, -122.387
+Palou Ave & Lane St, 37.7329, -122.389
+Palou Ave & Phelps St, 37.7361, -122.395
+Palou Ave & Quint St, 37.7372, -122.396
+Palou Ave & Rankin St, 37.7382, -122.398
+Parnassus Ave & 4th Ave, 37.7627, -122.461
+500 Parnassus Ave, 37.7633, -122.459
+Parnassus Ave & Cole St, 37.7649, -122.45
+Parnassus Ave & Hillway Ave, 37.7638, -122.457
+Parnassus Ave & Shrader St, 37.7648, -122.451
+Parnassus Ave & Stanyan St, 37.7645, -122.453
+Parnassus Ave & Willard St, 37.7644, -122.455
+Paul Ave & Bay Shore Blvd, 37.7236, -122.401
+Paul Ave & Carr St, 37.7225, -122.396
+Paul Ave & Crane St, 37.7233, -122.399
+Paul Ave & Gould St, 37.723, -122.398
+Paul Ave & San Bruno Ave, 37.7239, -122.402
+Paul Ave & Wheat St, 37.7234, -122.4
+Persia Ave & Athens St, 37.7201, -122.43
+Persia Ave & Brazil Ave, 37.7178, -122.423
+Persia Ave & Madrid St, 37.7216, -122.433
+Persia Ave & Mission St, 37.7231, -122.436
+Persia Ave & Moscow St, 37.7197, -122.429
+Persia Ave & Naples St, 37.7209, -122.431
+Persia Ave & Paris St, 37.7224, -122.434
+Persia Ave & Prague St, 37.719, -122.427
+City College Bookstore, 37.7241, -122.452
+Frida Khalo Way & Judson Ave, 37.7276, -122.452
+City College Terminal, 37.7237, -122.453
+City College Ocean Campus, 37.726, -122.452
+Phelps St & Carroll Ave, 37.7291, -122.401
+Phelps St & Donner Ave, 37.7285, -122.401
+Phelps St & Egbert Ave, 37.7281, -122.402
+Phelps St & Williams Ave, 37.7302, -122.4
+Pine St & Montgomery St, 37.7919, -122.403
+Park Presidio Blvd & Balboa St, 37.7772, -122.472
+Park Presidio & California Street, 37.7841, -122.473
+Park Presidio Blvd & California St, 37.7845, -122.473
+Park Presidio Blvd & Fulton St, 37.7732, -122.472
+Park Presidio Blvd & Geary Blvd, 37.7803, -122.472
+Gilman Ave & Bill Walsh Way, 37.7175, -122.387
+San Bruno Ave & Wilde Ave, 37.7168, -122.4
+San Bruno Ave & Wayland St, 37.7264, -122.403
+Santa Clara Ave & Monterey Blvd, 37.7332, -122.466
+Santa Clara Ave & Saint Francis Blvd, 37.7349, -122.466
+Schwerin St & Garrison Ave, 37.7093, -122.412
+Schwerin St & Geneva Ave, 37.7066, -122.413
+Schwerin St & Macdonald Ave, 37.7069, -122.413
+Schwerin St & Sunnydale Ave, 37.7105, -122.411
+Schwerin St & Velasco Ave, 37.7083, -122.412
+Silver Ave & Alemany Blvd, 37.7298, -122.433
+Silver Ave & Augusta St, 37.7343, -122.403
+Silver Ave & Boylston St, 37.7309, -122.411
+Silver Ave & Cambridge St, 37.7291, -122.419
+Silver Ave & Charter Oak Ave, 37.7333, -122.404
+Silver Ave & Congdon St, 37.7287, -122.426
+Silver Ave & Dartmouth St, 37.7299, -122.413
+Silver Ave & Gambier St, 37.7289, -122.423
+Silver Ave & Merrill St, 37.7315, -122.409
+Silver Ave & Mission St, 37.7289, -122.431
+Silver Ave & Princeton St, 37.729, -122.416
+Silver Ave & Revere Ave, 37.7363, -122.399
+Silver Ave & San Bruno Ave, 37.7324, -122.406
+Silver Ave & Topeka Ave, 37.7353, -122.401
+Starr King Way & Gough St, 37.785, -122.424
+Skyview Way & Aquavista Way, 37.7512, -122.45
+Skyview Way & City View Way, 37.7489, -122.45
+Skyview Way & Gladeview Dr, 37.7499, -122.45
+Skyline Blvd & Zoo Rd, 37.7282, -122.502
+Skyline Blvd & Harding Rd, 37.7264, -122.502
+Skyline Blvd & Lake Merced Blvd, 37.7311, -122.499
+Sloat Blvd & 19th Ave, 37.7348, -122.474
+Sloat Blvd & 21st Ave, 37.7348, -122.477
+Sloat Blvd & 23rd Ave, 37.7344, -122.48
+Sloat Blvd & 26th Ave, 37.7343, -122.482
+Sloat Blvd & 34th Ave, 37.7341, -122.492
+Sloat Blvd & 36th Ave, 37.7341, -122.493
+Sloat Blvd & 37th Ave, 37.7337, -122.495
+Sloat Blvd & 39th Ave, 37.7339, -122.497
+Sloat Blvd & 41st Ave, 37.7346, -122.499
+Sloat Blvd & 45th Ave, 37.7356, -122.503
+Sloat Blvd & Clearfield Dr, 37.7338, -122.492
+Sloat Blvd & Constanso Way, 37.7342, -122.489
+Sloat Blvd & Crestlake Dr, 37.7347, -122.48
+Sloat Blvd & El Mirasol Pl, 37.7344, -122.486
+Sloat Blvd & Everglade Dr, 37.734, -122.49
+Sloat Blvd & Forest View Dr, 37.7342, -122.484
+Sloat Blvd & Paraiso Pl, 37.7346, -122.482
+Sloat Blvd & Skyline Blvd, 37.7337, -122.497
+Sloat Blvd & Sylvan Dr, 37.7341, -122.486
+Sloat Blvd & Vale Ave, 37.7345, -122.484

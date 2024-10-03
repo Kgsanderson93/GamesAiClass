@@ -1,0 +1,1375 @@
+length 987.585449
+toobig x:-646.000000 y:-747.000000
+postNorm x:-3.270603 y:-3.781951
+length 613.434937
+toobig x:-435.043152 y:432.481049
+postNorm x:-3.545960 y:3.525077
+length 6.013876
+toobig x:-5.485494 y:2.464967
+postNorm x:-4.560698 y:2.049400
+length 8.478838
+toobig x:-7.483973 y:-3.985078
+postNorm x:-4.413324 y:-2.350014
+length 23.818579
+toobig x:-8.339746 y:-22.310835
+postNorm x:-1.750681 y:-4.683494
+length 48.635757
+toobig x:-1.721444 y:-48.605282
+postNorm x:-0.176973 y:-4.996867
+length 41.968605
+toobig x:-2.173977 y:-41.912262
+postNorm x:-0.259000 y:-4.993287
+length 69.190132
+toobig x:-13.254613 y:-67.908684
+postNorm x:-0.957840 y:-4.907397
+length 33.432266
+toobig x:-12.941895 y:-30.825699
+postNorm x:-1.935539 y:-4.610172
+length 32.842262
+toobig x:-17.903294 y:-27.533365
+postNorm x:-2.725649 y:-4.191758
+length 14.908877
+toobig x:-8.680002 y:-12.121559
+postNorm x:-2.911018 y:-4.065215
+length 12.627556
+toobig x:-8.861496 y:-8.996058
+postNorm x:-3.508793 y:-3.562074
+length 5.662136
+toobig x:-4.449410 y:-3.501789
+postNorm x:-3.929092 y:-3.092287
+length 4.367134
+length 6.615257
+toobig x:-2.797635 y:5.994569
+postNorm x:-2.114532 y:4.530867
+length 19.454586
+toobig x:-0.078858 y:19.454426
+postNorm x:-0.020267 y:4.999959
+length 39.927849
+toobig x:0.980074 y:39.915817
+postNorm x:0.122731 y:4.998493
+length 44.107372
+toobig x:4.120667 y:43.914467
+postNorm x:0.467118 y:4.978132
+length 37.295948
+toobig x:5.459245 y:36.894234
+postNorm x:0.731882 y:4.946145
+length 34.067123
+toobig x:3.719646 y:33.863449
+postNorm x:0.545929 y:4.970107
+length 19.055241
+toobig x:2.536651 y:18.885645
+postNorm x:0.665605 y:4.955499
+length 8.044189
+toobig x:1.654419 y:7.872221
+postNorm x:1.028332 y:4.893110
+length 14.748399
+toobig x:11.011212 y:9.811649
+postNorm x:3.733020 y:3.326344
+length 13.370338
+toobig x:12.670077 y:4.270258
+postNorm x:4.738129 y:1.596915
+length 28.663246
+toobig x:28.660030 y:-0.429407
+postNorm x:4.999439 y:-0.074906
+length 18.177259
+toobig x:17.915508 y:-3.073648
+postNorm x:4.928000 y:-0.845465
+length 36.690639
+toobig x:35.845146 y:-7.831251
+postNorm x:4.884781 y:-1.067200
+length 39.115620
+toobig x:37.802696 y:-10.049266
+postNorm x:4.832174 y:-1.284559
+length 24.327084
+toobig x:23.750961 y:-5.262969
+postNorm x:4.881588 y:-1.081710
+length 42.569962
+toobig x:41.799305 y:-8.063478
+postNorm x:4.909483 y:-0.947085
+length 20.916380
+toobig x:20.827038 y:-1.931181
+postNorm x:4.978643 y:-0.461643
+length 33.983707
+toobig x:33.894997 y:-2.453887
+postNorm x:4.986948 y:-0.361039
+length 22.332384
+toobig x:21.903637 y:-4.355007
+postNorm x:4.904007 y:-0.975043
+length 11.218726
+toobig x:10.821562 y:-2.958651
+postNorm x:4.822990 y:-1.318622
+length 14.397905
+toobig x:13.741912 y:-4.296454
+postNorm x:4.772192 y:-1.492041
+length 14.244848
+toobig x:12.692244 y:-6.467045
+postNorm x:4.455029 y:-2.269959
+length 17.648685
+toobig x:14.380087 y:-10.231774
+postNorm x:4.073983 y:-2.898736
+length 13.518675
+toobig x:11.005829 y:-7.850243
+postNorm x:4.070602 y:-2.903481
+length 23.988321
+toobig x:18.002016 y:-15.854559
+postNorm x:3.752246 y:-3.304641
+length 10.620691
+toobig x:6.689407 y:-8.249298
+postNorm x:3.149233 y:-3.883598
+length 17.640682
+toobig x:13.096443 y:-11.818497
+postNorm x:3.712000 y:-3.349785
+length 11.983050
+toobig x:8.649483 y:-8.293367
+postNorm x:3.609049 y:-3.460458
+length 26.161041
+toobig x:17.548458 y:-19.402363
+postNorm x:3.353930 y:-3.708255
+length 10.570628
+toobig x:7.298308 y:-7.646757
+postNorm x:3.452164 y:-3.616983
+length 12.888041
+toobig x:7.394009 y:-10.556051
+postNorm x:2.868554 y:-4.095289
+length 12.126762
+toobig x:6.820612 y:-10.026845
+postNorm x:2.812215 y:-4.134181
+length 12.971668
+toobig x:4.765006 y:-12.064779
+postNorm x:1.836697 y:-4.650435
+length 15.183290
+toobig x:6.805905 y:-13.572470
+postNorm x:2.241249 y:-4.469542
+length 11.212060
+toobig x:4.203504 y:-10.394270
+postNorm x:1.874546 y:-4.635308
+length 9.833228
+toobig x:4.843198 y:-8.557792
+postNorm x:2.462669 y:-4.351466
+length 14.888775
+toobig x:8.421284 y:-12.278339
+postNorm x:2.828064 y:-4.123354
+length 12.612415
+toobig x:8.780519 y:-9.054033
+postNorm x:3.480903 y:-3.589334
+length 17.643505
+toobig x:12.422424 y:-12.529032
+postNorm x:3.520396 y:-3.550607
+length 18.363747
+toobig x:13.461212 y:-12.490915
+postNorm x:3.665160 y:-3.400971
+length 16.941240
+toobig x:11.603416 y:-12.343678
+postNorm x:3.424607 y:-3.643086
+length 14.132031
+toobig x:9.366977 y:-10.581779
+postNorm x:3.314094 y:-3.743899
+length 9.154024
+toobig x:6.258149 y:-6.680698
+postNorm x:3.418250 y:-3.649050
+length 14.814405
+toobig x:10.361276 y:-10.588228
+postNorm x:3.497027 y:-3.573626
+length 29.671307
+toobig x:21.438034 y:-20.513342
+postNorm x:3.612587 y:-3.456764
+length 18.360250
+toobig x:12.552364 y:-13.399139
+postNorm x:3.418353 y:-3.648953
+length 12.721429
+toobig x:8.361103 y:-9.587841
+postNorm x:3.286228 y:-3.768382
+length 12.918863
+toobig x:7.231296 y:-10.705390
+postNorm x:2.798735 y:-4.143317
+length 22.563831
+toobig x:14.751740 y:-17.073742
+postNorm x:3.268891 y:-3.783431
+length 11.317100
+toobig x:7.213950 y:-8.719844
+postNorm x:3.187190 y:-3.852508
+length 12.111646
+toobig x:7.133706 y:-9.787859
+postNorm x:2.944978 y:-4.040681
+length 6.316809
+toobig x:3.895429 y:-4.972696
+postNorm x:3.083384 y:-3.936083
+length 7.002651
+toobig x:5.031753 y:-4.870173
+postNorm x:3.592749 y:-3.477378
+length 7.080490
+toobig x:5.532330 y:-4.418899
+postNorm x:3.906742 y:-3.120475
+length 7.118486
+toobig x:5.841398 y:-4.068282
+postNorm x:4.102978 y:-2.857547
+length 7.135189
+toobig x:6.033391 y:-3.809083
+postNorm x:4.227913 y:-2.669224
+length 6.693731
+toobig x:6.157616 y:-2.624843
+postNorm x:4.599539 y:-1.960672
+length 6.801314
+toobig x:6.522387 y:-1.927784
+postNorm x:4.794946 y:-1.417214
+length 8.077231
+toobig x:7.714477 y:-2.393431
+postNorm x:4.775446 y:-1.481591
+length 5.721236
+toobig x:5.695385 y:0.543248
+postNorm x:4.977408 y:0.474765
+length 8.270239
+toobig x:7.893783 y:2.466788
+postNorm x:4.772403 y:1.491364
+length 8.045623
+toobig x:6.692117 y:4.466275
+postNorm x:4.158856 y:2.775593
+length 11.900440
+toobig x:8.088771 y:8.728818
+postNorm x:3.398517 y:3.667435
+length 14.110907
+toobig x:6.341354 y:12.605748
+postNorm x:2.246969 y:4.466668
+length 7.151263
+toobig x:3.208861 y:6.390913
+postNorm x:2.243562 y:4.468381
+length 8.678123
+toobig x:2.205771 y:8.393116
+postNorm x:1.270880 y:4.835790
+length 8.758898
+toobig x:0.249737 y:8.755337
+postNorm x:0.142562 y:4.997967
+length 11.071622
+toobig x:-1.859825 y:10.914296
+postNorm x:-0.839906 y:4.928951
+length 10.563622
+toobig x:-3.825851 y:9.846470
+postNorm x:-1.810862 y:4.660555
+length 25.500391
+toobig x:-6.780497 y:24.582407
+postNorm x:-1.329489 y:4.820006
+length 10.006570
+toobig x:-2.306619 y:9.737092
+postNorm x:-1.152552 y:4.865350
+length 11.838330
+toobig x:-1.133272 y:11.783962
+postNorm x:-0.478645 y:4.977037
+length 10.002019
+toobig x:-1.470594 y:9.893318
+postNorm x:-0.735149 y:4.945661
+length 6.900938
+toobig x:-0.722858 y:6.862974
+postNorm x:-0.523739 y:4.972494
+length 11.985482
+toobig x:-1.514981 y:11.889349
+postNorm x:-0.632007 y:4.959896
+length 11.986020
+toobig x:-1.621299 y:11.875860
+postNorm x:-0.676329 y:4.954047
+length 13.382776
+toobig x:-3.665011 y:12.871145
+postNorm x:-1.369302 y:4.808847
+length 12.196254
+toobig x:-3.346337 y:11.728198
+postNorm x:-1.371871 y:4.808115
+length 14.732867
+toobig x:-5.348895 y:13.727590
+postNorm x:-1.815293 y:4.658832
+length 16.081938
+toobig x:-6.784823 y:14.580633
+postNorm x:-2.109454 y:4.533233
+length 13.465219
+toobig x:-7.074108 y:11.457273
+postNorm x:-2.626808 y:4.254395
+length 9.379060
+toobig x:-4.582835 y:8.183177
+postNorm x:-2.443120 y:4.362472
+length 23.910732
+toobig x:-15.402128 y:18.289274
+postNorm x:-3.220756 y:3.824491
+length 12.679356
+toobig x:-9.166567 y:8.760143
+postNorm x:-3.614761 y:3.454491
+length 14.283187
+toobig x:-11.554373 y:8.396780
+postNorm x:-4.044746 y:2.939393
+length 15.582760
+toobig x:-13.976778 y:6.889999
+postNorm x:-4.484693 y:2.210776
+length 43.190769
+toobig x:-42.410225 y:8.174067
+postNorm x:-4.909640 y:0.946275
+length 22.908693
+toobig x:-22.827217 y:1.930389
+postNorm x:-4.982217 y:0.421322
+length 37.900818
+toobig x:-37.898552 y:0.414247
+postNorm x:-4.999701 y:0.054649
+length 40.960293
+toobig x:-40.914024 y:-1.946288
+postNorm x:-4.994352 y:-0.237582
+length 24.013880
+toobig x:-23.909782 y:-2.233559
+postNorm x:-4.978326 y:-0.465056
+length 58.831978
+toobig x:-57.895138 y:-10.457285
+postNorm x:-4.920380 y:-0.888742
+length 26.496323
+toobig x:-25.837082 y:-5.873696
+postNorm x:-4.875597 y:-1.108398
+length 40.818676
+toobig x:-39.793720 y:-9.089784
+postNorm x:-4.874450 y:-1.113434
+length 41.588135
+toobig x:-40.792740 y:-8.094770
+postNorm x:-4.904372 y:-0.973207
+length 17.281013
+toobig x:-16.821915 y:-3.956844
+postNorm x:-4.867167 y:-1.144853
+length 17.073542
+toobig x:-16.785019 y:-3.125530
+postNorm x:-4.915506 y:-0.915314
+length 18.068359
+toobig x:-17.834089 y:-2.900154
+postNorm x:-4.935171 y:-0.802550
+length 24.015200
+toobig x:-23.852684 y:-2.789136
+postNorm x:-4.966164 y:-0.580702
+length 15.892143
+toobig x:-15.881887 y:-0.570848
+postNorm x:-4.996773 y:-0.179601
+length 22.914116
+toobig x:-22.913435 y:-0.176605
+postNorm x:-4.999851 y:-0.038536
+length 11.960705
+toobig x:-11.915588 y:-1.037887
+postNorm x:-4.981140 y:-0.433874
+length 16.957441
+toobig x:-16.897327 y:-1.426573
+postNorm x:-4.982275 y:-0.420633
+length 9.010941
+toobig x:-8.899364 y:-1.413634
+postNorm x:-4.938088 y:-0.784398
+length 15.953840
+toobig x:-15.855212 y:-1.771234
+postNorm x:-4.969090 y:-0.555112
+length 10.005634
+toobig x:-9.885509 y:-1.545775
+postNorm x:-4.939971 y:-0.772452
+length 16.095331
+toobig x:-15.857016 y:-2.759480
+postNorm x:-4.925967 y:-0.857230
+length 10.014186
+toobig x:-9.843166 y:-1.842821
+postNorm x:-4.914611 y:-0.920105
+length 11.513794
+toobig x:-10.831525 y:-3.904550
+postNorm x:-4.703717 y:-1.695597
+length 9.372463
+toobig x:-8.625197 y:-3.667292
+postNorm x:-4.601350 y:-1.956419
+length 8.072357
+toobig x:-7.524305 y:-2.923660
+postNorm x:-4.660538 y:-1.810909
+length 12.058281
+toobig x:-10.582409 y:-5.780550
+postNorm x:-4.388025 y:-2.396922
+length 8.513460
+toobig x:-7.314280 y:-4.356639
+postNorm x:-4.295715 y:-2.558677
+length 11.616610
+toobig x:-10.223616 y:-5.515732
+postNorm x:-4.400430 y:-2.374072
+length 13.066366
+toobig x:-12.326573 y:-4.334225
+postNorm x:-4.716909 y:-1.658543
+length 10.298970
+toobig x:-9.637774 y:-3.630717
+postNorm x:-4.678998 y:-1.762660
+length 12.527241
+toobig x:-11.598932 y:-4.732497
+postNorm x:-4.629484 y:-1.888883
+length 6.811384
+toobig x:-6.553149 y:-1.857737
+postNorm x:-4.810439 y:-1.363700
+length 8.420661
+toobig x:-7.729599 y:-3.340783
+postNorm x:-4.589663 y:-1.983682
+length 9.009465
+toobig x:-8.512671 y:-2.950406
+postNorm x:-4.724293 y:-1.637392
+length 7.812608
+toobig x:-7.644939 y:-1.609889
+postNorm x:-4.892694 y:-1.030315
+length 10.015250
+toobig x:-9.810848 y:-2.013080
+postNorm x:-4.897955 y:-1.005007
+length 6.886870
+toobig x:-6.815615 y:-0.988112
+postNorm x:-4.948267 y:-0.717388
+length 6.108726
+toobig x:-5.865834 y:-1.705437
+postNorm x:-4.801193 y:-1.395903
+length 7.841836
+toobig x:-7.720788 y:-1.372526
+postNorm x:-4.922819 y:-0.875130
+length 6.894265
+toobig x:-6.840356 y:-0.860471
+postNorm x:-4.960904 y:-0.624048
+length 5.909694
+toobig x:-5.877754 y:-0.613589
+postNorm x:-4.972977 y:-0.519137
+length 5.117425
+toobig x:-4.889446 y:-1.510417
+postNorm x:-4.777252 y:-1.475759
+length 6.852803
+toobig x:-6.697405 y:-1.451093
+postNorm x:-4.886617 y:-1.058759
+length 6.883852
+toobig x:-6.804683 y:-1.041007
+postNorm x:-4.942497 y:-0.756122
+length 5.906311
+toobig x:-5.859340 y:-0.743401
+postNorm x:-4.960237 y:-0.629327
+length 5.138459
+toobig x:-4.876826 y:-1.618745
+postNorm x:-4.745416 y:-1.575127
+length 3.978648
+length 2.211821
+length 3.479311
+length 9.698221
+toobig x:9.382252 y:-2.455371
+postNorm x:4.837099 y:-1.265887
+length 26.849676
+toobig x:26.755690 y:-2.244582
+postNorm x:4.982498 y:-0.417991
+length 28.933157
+toobig x:28.898733 y:-1.410963
+postNorm x:4.994051 y:-0.243832
+length 44.927792
+toobig x:44.910683 y:-1.239761
+postNorm x:4.998096 y:-0.137973
+length 28.926943
+toobig x:28.914028 y:0.864348
+postNorm x:4.997768 y:0.149402
+length 29.084919
+toobig x:28.914175 y:3.146903
+postNorm x:4.970647 y:0.540985
+length 32.207104
+toobig x:31.886673 y:4.531846
+postNorm x:4.950254 y:0.703548
+length 39.827671
+toobig x:38.867668 y:8.691811
+postNorm x:4.879480 y:1.091177
+length 28.946001
+toobig x:27.797485 y:8.072841
+postNorm x:4.801611 y:1.394466
+length 23.347281
+toobig x:22.721071 y:5.371076
+postNorm x:4.865892 y:1.150257
+length 16.091635
+toobig x:15.784106 y:3.130924
+postNorm x:4.904445 y:0.972842
+length 14.951079
+toobig x:14.822501 y:1.956588
+postNorm x:4.957000 y:0.654330
+length 19.941317
+toobig x:19.873491 y:1.643306
+postNorm x:4.982994 y:0.412036
+length 24.902920
+toobig x:24.899624 y:0.405142
+postNorm x:4.999338 y:0.081344
+length 9.915802
+toobig x:9.915480 y:0.079980
+postNorm x:4.999837 y:0.040329
+length 25.228952
+toobig x:24.916174 y:-3.960345
+postNorm x:4.938012 y:-0.784881
+length 17.517500
+toobig x:16.855080 y:-4.771699
+postNorm x:4.810926 y:-1.361981
+length 18.829306
+toobig x:17.730156 y:-6.339114
+postNorm x:4.708128 y:-1.683311
+length 27.707691
+toobig x:26.629225 y:-7.655100
+postNorm x:4.805385 y:-1.381403
+length 39.417595
+toobig x:38.724712 y:-7.358212
+postNorm x:4.912110 y:-0.933366
+length 19.922373
+toobig x:19.829857 y:-1.917737
+postNorm x:4.976781 y:-0.481302
+length 35.923824
+toobig x:35.893600 y:-1.473258
+postNorm x:4.995793 y:-0.205053
+length 20.913113
+toobig x:20.912140 y:-0.201619
+postNorm x:4.999767 y:-0.048204
+length 43.916119
+toobig x:43.916096 y:-0.047397
+postNorm x:4.999997 y:-0.005396
+length 17.942116
+toobig x:17.914522 y:0.994696
+postNorm x:4.992311 y:0.277196
+length 26.909962
+toobig x:26.908581 y:0.272547
+postNorm x:4.999743 y:0.050640
+length 14.953020
+toobig x:14.916123 y:1.049794
+postNorm x:4.987662 y:0.351031
+length 26.010527
+toobig x:25.904587 y:2.345184
+postNorm x:4.979635 y:0.450814
+length 7.908223
+toobig x:7.895793 y:0.443224
+postNorm x:4.992141 y:0.280230
+length 12.123895
+toobig x:11.908433 y:2.275531
+postNorm x:4.911142 y:0.938449
+length 8.876674
+toobig x:8.828590 y:0.922675
+postNorm x:4.972916 y:0.519719
+length 8.032966
+toobig x:7.889575 y:1.511009
+postNorm x:4.910748 y:0.940505
+length 8.061437
+toobig x:7.828297 y:1.924714
+postNorm x:4.855398 y:1.193778
+length 7.114207
+toobig x:6.773973 y:2.173759
+postNorm x:4.760877 y:1.527759
+length 8.078466
+toobig x:7.681190 y:2.502187
+postNorm x:4.754114 y:1.548677
+length 6.209963
+toobig x:5.674459 y:2.522729
+postNorm x:4.568835 y:2.031195
+length 7.150311
+toobig x:6.491914 y:2.996998
+postNorm x:4.539603 y:2.095712
+length 5.838854
+toobig x:5.463220 y:2.060449
+postNorm x:4.678332 y:1.764430
+length 6.823511
+toobig x:6.599343 y:1.734639
+postNorm x:4.835739 y:1.271075
+length 5.889352
+toobig x:5.755190 y:1.249903
+postNorm x:4.886098 y:1.061155
+length 6.153026
+toobig x:5.803850 y:2.043293
+postNorm x:4.716257 y:1.660397
+length 5.332245
+toobig x:4.637094 y:2.632527
+postNorm x:4.348163 y:2.468498
+length 5.806669
+toobig x:5.275123 y:2.427032
+postNorm x:4.542297 y:2.089866
+length 4.619877
+length 5.552501
+toobig x:2.407613 y:5.003366
+postNorm x:2.168044 y:4.505506
+length 8.376783
+toobig x:-3.868205 y:7.430174
+postNorm x:-2.308885 y:4.434980
+length 35.492298
+toobig x:-33.270294 y:12.360855
+postNorm x:-4.686974 y:1.741343
+length 12.896314
+toobig x:-12.607937 y:2.711979
+postNorm x:-4.888194 y:1.051455
+length 45.982937
+toobig x:-45.805672 y:4.033704
+postNorm x:-4.980725 y:0.438609
+length 17.902847
+toobig x:-17.897652 y:0.431293
+postNorm x:-4.998549 y:0.120454
+length 18.948006
+toobig x:-18.914968 y:1.118440
+postNorm x:-4.991282 y:0.295134
+length 26.909010
+toobig x:-26.907444 y:0.290176
+postNorm x:-4.999709 y:0.053918
+length 13.916551
+toobig x:-13.916450 y:0.053020
+postNorm x:-4.999964 y:0.019049
+length 21.939770
+toobig x:-21.916105 y:1.018730
+postNorm x:-4.994607 y:0.232165
+length 14.280369
+toobig x:-13.910687 y:3.228264
+postNorm x:-4.870563 y:1.130315
+length 11.841063
+toobig x:-11.788795 y:1.111340
+postNorm x:-4.977930 y:0.469274
+length 25.290974
+toobig x:-24.894361 y:4.461396
+postNorm x:-4.921590 y:0.882013
+length 14.669376
+toobig x:-13.838420 y:4.867108
+postNorm x:-4.716772 y:1.658935
+length 15.081023
+toobig x:-14.637383 y:3.631013
+postNorm x:-4.852914 y:1.203835
+length 12.194508
+toobig x:-11.771589 y:3.183661
+postNorm x:-4.826595 y:1.305367
+length 13.446108
+toobig x:-12.745581 y:4.283456
+postNorm x:-4.739506 y:1.592824
+length 31.834110
+toobig x:-30.659952 y:8.566088
+postNorm x:-4.815582 y:1.345426
+length 16.610737
+toobig x:-15.734797 y:5.322855
+postNorm x:-4.736333 y:1.602233
+length 14.402946
+toobig x:-13.656900 y:4.575362
+postNorm x:-4.741009 y:1.588342
+length 12.918024
+toobig x:-12.661479 y:2.561698
+postNorm x:-4.900702 y:0.991521
+length 22.019878
+toobig x:-21.818012 y:2.974791
+postNorm x:-4.954163 y:0.675479
+length 20.205965
+toobig x:-19.870962 y:3.664135
+postNorm x:-4.917103 y:0.906696
+length 17.934345
+toobig x:-17.834328 y:1.891433
+postNorm x:-4.972116 y:0.527321
+length 27.929367
+toobig x:-27.888062 y:1.518407
+postNorm x:-4.992605 y:0.271830
+length 14.911684
+toobig x:-14.909288 y:0.267294
+postNorm x:-4.999197 y:0.089626
+length 14.954988
+toobig x:-14.915350 y:1.088122
+postNorm x:-4.986748 y:0.363799
+length 12.974588
+toobig x:-12.903355 y:1.357715
+postNorm x:-4.972549 y:0.523221
+length 19.212990
+toobig x:-18.888830 y:3.514412
+postNorm x:-4.915641 y:0.914593
+length 20.212986
+toobig x:-19.833317 y:3.899276
+postNorm x:-4.906083 y:0.964547
+length 25.114824
+toobig x:-23.823885 y:7.948387
+postNorm x:-4.742992 y:1.582409
+length 14.749546
+toobig x:-13.663177 y:5.555780
+postNorm x:-4.631728 y:1.883373
+length 11.616098
+toobig x:-10.554286 y:4.851883
+postNorm x:-4.542957 y:2.088431
+length 18.486244
+toobig x:-17.467003 y:6.053514
+postNorm x:-4.724324 y:1.637303
+length 20.429966
+toobig x:-19.644711 y:5.609711
+postNorm x:-4.807817 y:1.372912
+length 10.287012
+toobig x:-9.726377 y:3.349657
+postNorm x:-4.727504 y:1.628100
+length 17.564978
+toobig x:-16.648121 y:5.600761
+postNorm x:-4.739010 y:1.594298
+length 10.963859
+toobig x:-10.659020 y:2.567388
+postNorm x:-4.860981 y:1.170841
+length 8.391742
+toobig x:-7.777775 y:3.150800
+postNorm x:-4.634184 y:1.877322
+length 9.382395
+toobig x:-8.557738 y:3.846354
+postNorm x:-4.560530 y:2.049772
+length 12.087171
+toobig x:-10.484027 y:6.015387
+postNorm x:-4.336841 y:2.488335
+length 18.417599
+toobig x:-15.195360 y:10.407158
+postNorm x:-4.125228 y:2.825330
+length 13.348283
+toobig x:-10.056053 y:8.777952
+postNorm x:-3.766797 y:3.288045
+length 9.153608
+toobig x:-6.703661 y:6.232934
+postNorm x:-3.661759 y:3.404633
+length 8.494531
+toobig x:-6.600190 y:5.347387
+postNorm x:-3.884964 y:3.147547
+length 8.512304
+toobig x:-6.819487 y:5.094499
+postNorm x:-4.005665 y:2.992432
+length 8.518513
+toobig x:-6.938330 y:4.942129
+postNorm x:-4.072501 y:2.900817
+length 11.947798
+toobig x:-9.004807 y:7.852600
+postNorm x:-3.768396 y:3.286212
+length 14.309827
+toobig x:-11.705422 y:8.231296
+postNorm x:-4.089994 y:2.876099
+length 14.914353
+toobig x:-12.021200 y:8.827723
+postNorm x:-4.030077 y:2.959472
+length 9.354992
+toobig x:-7.962840 y:4.910096
+postNorm x:-4.255931 y:2.624319
+length 13.511117
+toobig x:-11.184397 y:7.580209
+postNorm x:-4.138961 y:2.805175
+length 7.710384
+toobig x:-6.067978 y:4.757066
+postNorm x:-3.934939 y:3.084843
+length 6.607412
+toobig x:-5.869772 y:3.033755
+postNorm x:-4.441809 y:2.295721
+length 5.822219
+toobig x:-5.366942 y:2.257027
+postNorm x:-4.609018 y:1.938288
+length 5.383036
+toobig x:-4.531462 y:2.905672
+postNorm x:-4.209021 y:2.698915
+length 6.304950
+toobig x:-5.138414 y:3.653641
+postNorm x:-4.074905 y:2.897439
+length 5.556025
+toobig x:-4.006805 y:3.849017
+postNorm x:-3.605820 y:3.463822
+length 4.284431
+length 3.742953
+length 1.754380
+length 34.102451
+toobig x:28.563784 y:-18.630285
+postNorm x:4.187937 y:-2.731517
+length 11.605459
+toobig x:10.117395 y:-5.685507
+postNorm x:4.358895 y:-2.449497
+length 42.924286
+toobig x:38.285851 y:-19.408449
+postNorm x:4.459696 y:-2.260777
+length 24.151258
+toobig x:21.385210 y:-11.223018
+postNorm x:4.427349 y:-2.323485
+length 21.974388
+toobig x:20.352934 y:-8.284431
+postNorm x:4.631058 y:-1.885020
+length 54.311737
+toobig x:50.553062 y:-19.853275
+postNorm x:4.653972 y:-1.827715
+length 22.341337
+toobig x:21.576111 y:-5.797137
+postNorm x:4.828742 y:-1.297402
+length 37.900326
+toobig x:36.747753 y:-9.275641
+postNorm x:4.847947 y:-1.223689
+length 17.902622
+toobig x:17.766544 y:-2.203142
+postNorm x:4.961995 y:-0.615313
+length 35.181808
+toobig x:34.879124 y:-4.605036
+postNorm x:4.956983 y:-0.654463
+length 16.092390
+toobig x:15.873785 y:-2.643478
+postNorm x:4.932078 y:-0.821344
+length 15.951908
+toobig x:15.849170 y:-1.807537
+postNorm x:4.967797 y:-0.566558
+length 27.005749
+toobig x:26.884418 y:-2.557049
+postNorm x:4.977536 y:-0.473427
+length 13.971371
+toobig x:13.894297 y:-1.465510
+postNorm x:4.972417 y:-0.524469
+length 14.965781
+toobig x:14.888835 y:-1.515653
+postNorm x:4.974293 y:-0.506373
+length 34.188190
+toobig x:33.891022 y:-4.497896
+postNorm x:4.956539 y:-0.657814
+length 26.923891
+toobig x:26.873482 y:-1.646791
+postNorm x:4.990639 y:-0.305823
+length 16.909044
+toobig x:16.906372 y:-0.300660
+postNorm x:4.999210 y:-0.088905
+length 22.014561
+toobig x:21.915373 y:-2.087414
+postNorm x:4.977472 y:-0.474099
+length 27.116228
+toobig x:26.893787 y:-3.466127
+postNorm x:4.958984 y:-0.639124
+length 15.105803
+toobig x:14.875385 y:-2.628350
+postNorm x:4.923732 y:-0.869980
+length 21.194830
+toobig x:20.841225 y:-3.855402
+postNorm x:4.916582 y:-0.909515
+length 11.984627
+toobig x:11.833983 y:-1.894235
+postNorm x:4.937151 y:-0.790277
+length 14.130054
+toobig x:13.854473 y:-2.777043
+postNorm x:4.902484 y:-0.982673
+length 8.363861
+toobig x:7.820226 y:-2.966184
+postNorm x:4.675009 y:-1.773215
+length 9.981205
+toobig x:9.596745 y:-2.743529
+postNorm x:4.807408 y:-1.374348
+length 6.190442
+toobig x:5.726542 y:-2.351230
+postNorm x:4.625310 y:-1.899081
+length 9.015224
+toobig x:8.547194 y:-2.867007
+postNorm x:4.740422 y:-1.590092
+length 8.078769
+toobig x:7.661252 y:-2.563536
+postNorm x:4.741597 y:-1.586589
+length 9.031270
+toobig x:8.660961 y:-2.559607
+postNorm x:4.794985 y:-1.417080
+length 16.044901
+toobig x:14.715949 y:-6.393723
+postNorm x:4.585865 y:-1.992447
+length 7.149796
+toobig x:6.508777 y:-2.958954
+postNorm x:4.551722 y:-2.069257
+length 11.622150
+toobig x:10.475148 y:-5.034447
+postNorm x:4.506545 y:-2.165884
+length 7.151820
+toobig x:6.430780 y:-3.129472
+postNorm x:4.495905 y:-2.187885
+length 7.152219
+toobig x:6.420589 y:-3.151233
+postNorm x:4.488530 y:-2.202976
+length 12.101905
+toobig x:10.413265 y:-6.166037
+postNorm x:4.302325 y:-2.547548
+length 6.714787
+toobig x:6.230119 y:-2.504792
+postNorm x:4.639104 y:-1.865132
+length 11.614985
+toobig x:10.561329 y:-4.833863
+postNorm x:4.546423 y:-2.080873
+length 7.151468
+toobig x:6.470325 y:-3.046044
+postNorm x:4.523774 y:-2.129663
+length 12.095543
+toobig x:10.448177 y:-6.094074
+postNorm x:4.319020 y:-2.519140
+length 8.949979
+toobig x:8.246935 y:-3.477096
+postNorm x:4.607237 y:-1.942516
+length 9.383003
+toobig x:8.529613 y:-3.909789
+postNorm x:4.545247 y:-2.083442
+length 8.205893
+toobig x:6.469082 y:-5.048530
+postNorm x:3.941730 y:-3.076161
+length 8.515867
+toobig x:6.875600 y:-5.024552
+postNorm x:4.036935 y:-2.950112
+length 10.541604
+toobig x:7.969154 y:-6.900579
+postNorm x:3.779859 y:-3.273022
+length 7.033419
+toobig x:4.716198 y:-5.217897
+postNorm x:3.352707 y:-3.709361
+length 5.698019
+toobig x:3.296753 y:-4.647455
+postNorm x:2.892895 y:-4.078133
+length 8.520358
+toobig x:4.844109 y:-7.009359
+postNorm x:2.842667 y:-4.113301
+length 8.515838
+toobig x:2.794871 y:-8.044140
+postNorm x:1.640984 y:-4.723047
+length 8.793301
+toobig x:1.613519 y:-8.643997
+postNorm x:0.917471 y:-4.915104
+length 10.870321
+toobig x:0.902112 y:-10.832825
+postNorm x:0.414943 y:-4.982753
+length 7.041372
+toobig x:1.407982 y:-6.899167
+postNorm x:0.999792 y:-4.899022
+length 14.848736
+toobig x:0.982884 y:-14.816170
+postNorm x:0.330965 y:-4.989034
+length 12.922494
+toobig x:-0.674618 y:-12.904873
+postNorm x:-0.261025 y:-4.993182
+length 11.976022
+toobig x:-1.256671 y:-11.909906
+postNorm x:-0.524661 y:-4.972397
+length 8.033251
+toobig x:-1.515855 y:-7.888935
+postNorm x:-0.943488 y:-4.910176
+length 10.997853
+toobig x:-1.927622 y:-10.827606
+postNorm x:-0.876363 y:-4.922600
+length 7.088943
+toobig x:-1.861679 y:-6.840122
+postNorm x:-1.313087 y:-4.824500
+length 6.183224
+toobig x:-2.290947 y:-5.743154
+postNorm x:-1.852550 y:-4.644142
+length 7.146925
+toobig x:-2.821535 y:-6.566390
+postNorm x:-1.973950 y:-4.593857
+length 8.487470
+toobig x:-3.940948 y:-7.517052
+postNorm x:-2.321627 y:-4.428324
+length 6.855990
+toobig x:-4.282596 y:-5.353875
+postNorm x:-3.123251 y:-3.904524
+length 12.665365
+toobig x:-9.070924 y:-8.839108
+postNorm x:-3.580996 y:-3.489480
+length 7.079046
+toobig x:-5.520875 y:-4.430895
+postNorm x:-3.899448 y:-3.129585
+length 7.957865
+toobig x:-6.834082 y:-4.077124
+postNorm x:-4.293917 y:-2.561694
+length 14.349428
+toobig x:-12.221899 y:-7.518729
+postNorm x:-4.258671 y:-2.619871
+length 16.083149
+toobig x:-14.187113 y:-7.575849
+postNorm x:-4.410552 y:-2.355213
+length 10.741560
+toobig x:-9.334633 y:-5.314673
+postNorm x:-4.345101 y:-2.473883
+length 12.513041
+toobig x:-11.272304 y:-5.432436
+postNorm x:-4.504222 y:-2.170710
+length 28.609478
+toobig x:-27.428726 y:-8.134326
+postNorm x:-4.793643 y:-1.421614
+length 15.099864
+toobig x:-14.712656 y:-3.397596
+postNorm x:-4.871784 y:-1.125042
+length 24.879553
+toobig x:-24.790241 y:-2.106211
+postNorm x:-4.982051 y:-0.423281
+length 14.904523
+toobig x:-14.898710 y:-0.416201
+postNorm x:-4.998050 y:-0.139622
+length 14.957582
+toobig x:-14.914284 y:-1.137282
+postNorm x:-4.985526 y:-0.380169
+length 13.969818
+toobig x:-13.902103 y:-1.373808
+postNorm x:-4.975764 y:-0.491706
+length 9.903897
+toobig x:-9.892092 y:-0.483437
+postNorm x:-4.994040 y:-0.244064
+length 14.929737
+toobig x:-14.910379 y:0.760025
+postNorm x:-4.993517 y:0.254534
+length 15.958402
+toobig x:-15.909351 y:1.250244
+postNorm x:-4.984632 y:0.391720
+length 19.051205
+toobig x:-18.901304 y:2.385171
+postNorm x:-4.960659 y:0.625990
+length 20.949286
+toobig x:-19.877325 y:6.615474
+postNorm x:-4.744153 y:1.578926
+length 13.458086
+toobig x:-12.664713 y:4.552486
+postNorm x:-4.705243 y:1.691357
+length 27.248455
+toobig x:-24.626274 y:11.662971
+postNorm x:-4.518838 y:2.140116
+length 16.605795
+toobig x:-15.443134 y:6.104263
+postNorm x:-4.649923 y:1.837992
+length 15.687213
+toobig x:-14.572652 y:5.807448
+postNorm x:-4.644755 y:1.851013
+length 26.364616
+toobig x:-23.566584 y:11.819861
+postNorm x:-4.469358 y:2.241614
+length 14.761493
+toobig x:-13.394456 y:6.204047
+postNorm x:-4.536958 y:2.101429
+length 16.558104
+toobig x:-14.460613 y:8.066069
+postNorm x:-4.366627 y:2.435686
+length 14.886000
+toobig x:-12.293163 y:8.394709
+postNorm x:-4.129102 y:2.819666
+length 28.966303
+toobig x:-22.059959 y:18.772451
+postNorm x:-3.807866 y:3.240395
+length 10.710962
+toobig x:-8.744000 y:6.186047
+postNorm x:-4.081800 y:2.887717
+length 20.525017
+toobig x:-16.013380 y:12.839314
+postNorm x:-3.900942 y:3.127723
+length 14.914563
+toobig x:-11.835629 y:9.075356
+postNorm x:-3.967809 y:3.042448
+length 13.802773
+toobig x:-11.901162 y:6.991343
+postNorm x:-4.311149 y:2.532587
+length 13.505798
+toobig x:-11.238626 y:7.489984
+postNorm x:-4.160667 y:2.772877
+length 17.953712
+toobig x:-15.090856 y:9.726351
+postNorm x:-4.202712 y:2.708730
+length 17.119944
+toobig x:-14.132061 y:9.663193
+postNorm x:-4.127368 y:2.822203
+length 9.119647
+toobig x:-7.058210 y:5.774915
+postNorm x:-3.869782 y:3.166194
+length 35.406963
+toobig x:-29.805012 y:19.113199
+postNorm x:-4.208920 y:2.699074
+length 17.954269
+toobig x:-15.138113 y:9.653667
+postNorm x:-4.215742 y:2.688404
+length 13.392279
+toobig x:-12.145170 y:5.643400
+postNorm x:-4.534393 y:2.106960
+length 31.322432
+toobig x:-27.458055 y:15.071490
+postNorm x:-4.383130 y:2.405862
+length 14.883268
+toobig x:-12.309712 y:8.365564
+postNorm x:-4.135420 y:2.810392
+length 14.115746
+toobig x:-11.066118 y:8.763295
+postNorm x:-3.919778 y:3.104085
+length 16.205509
+toobig x:-11.852899 y:11.051123
+postNorm x:-3.657058 y:3.409681
+length 13.456997
+toobig x:-8.596549 y:10.353265
+postNorm x:-3.194082 y:3.846796
+length 9.912543
+toobig x:-6.140150 y:7.781843
+postNorm x:-3.097162 y:3.925251
+length 13.515326
+toobig x:-8.045483 y:10.859754
+postNorm x:-2.976429 y:4.017570
+length 11.316594
+toobig x:-6.926059 y:8.949581
+postNorm x:-3.060134 y:3.954185
+length 7.123820
+toobig x:-4.009296 y:5.888494
+postNorm x:-2.814007 y:4.132961
+length 18.516088
+toobig x:-10.766932 y:15.063822
+postNorm x:-2.907453 y:4.067766
+length 13.821547
+toobig x:-6.858785 y:11.999676
+postNorm x:-2.481193 y:4.340931
+length 9.384425
+toobig x:-4.439465 y:8.267925
+postNorm x:-2.365336 y:4.405131
+length 10.853052
+toobig x:-3.325532 y:10.331001
+postNorm x:-1.532072 y:4.759491
+length 11.946136
+toobig x:-2.506553 y:11.680212
+postNorm x:-1.049106 y:4.888699
+length 7.103205
+toobig x:-2.031470 y:6.806515
+postNorm x:-1.429967 y:4.791158
+length 7.837707
+toobig x:-1.405918 y:7.710580
+postNorm x:-0.896894 y:4.918900
+length 10.247866
+toobig x:-2.881489 y:9.834418
+postNorm x:-1.405897 y:4.798276
+length 7.842379
+toobig x:-1.382817 y:7.719503
+postNorm x:-0.881631 y:4.921659
+length 13.885815
+toobig x:1.133085 y:13.839508
+postNorm x:0.408001 y:4.983326
+length 9.009499
+toobig x:1.401169 y:8.899876
+postNorm x:0.777606 y:4.939162
+length 8.888825
+toobig x:0.764496 y:8.855888
+postNorm x:0.430032 y:4.981473
+length 10.190382
+toobig x:2.422841 y:9.898168
+postNorm x:1.188788 y:4.856623
+length 7.479704
+toobig x:3.168873 y:6.775265
+postNorm x:2.118315 y:4.529099
+length 15.235477
+toobig x:11.083138 y:10.453890
+postNorm x:3.637280 y:3.430772
+length 9.626683
+toobig x:8.576094 y:4.373060
+postNorm x:4.454335 y:2.271322
+length 11.209862
+toobig x:10.379791 y:4.233312
+postNorm x:4.629759 y:1.888209
+length 28.694746
+toobig x:28.552206 y:2.856579
+postNorm x:4.975163 y:0.497753
+length 14.900747
+toobig x:14.891997 y:-0.510567
+postNorm x:4.997064 y:-0.171323
+length 22.020367
+toobig x:21.913338 y:-2.168452
+postNorm x:4.975698 y:-0.492374
+length 12.148530
+toobig x:11.891851 y:-2.484077
+postNorm x:4.894358 y:-1.022378
+length 13.755184
+toobig x:12.812216 y:-5.005219
+postNorm x:4.657231 y:-1.819394
+length 22.854023
+toobig x:19.578846 y:-11.788771
+postNorm x:4.283457 y:-2.579146
+length 27.521555
+toobig x:21.211552 y:-17.535851
+postNorm x:3.853625 y:-3.185839
+length 14.088593
+toobig x:9.788950 y:-10.132371
+postNorm x:3.474069 y:-3.595948
+length 10.678091
+toobig x:6.415868 y:-8.535706
+postNorm x:3.004220 y:-3.996831
+length 15.537584
+toobig x:9.954176 y:-11.930252
+postNorm x:3.203257 y:-3.839159
+length 9.149469
+toobig x:6.149481 y:-6.774708
+postNorm x:3.360567 y:-3.702241
+length 11.313410
+toobig x:7.303898 y:-8.639811
+postNorm x:3.227983 y:-3.818394
+length 11.318636
+toobig x:7.174094 y:-8.754650
+postNorm x:3.169152 y:-3.867361
+length 17.928923
+toobig x:10.115979 y:-14.802475
+postNorm x:2.821134 y:-4.128099
+length 11.598111
+toobig x:5.773781 y:-10.058809
+postNorm x:2.489104 y:-4.336400
+length 12.680961
+toobig x:7.447371 y:-10.263695
+postNorm x:2.936438 y:-4.046892
+length 16.564878
+toobig x:8.887192 y:-13.979021
+postNorm x:2.682541 y:-4.219476
+length 8.521191
+toobig x:4.637544 y:-7.148698
+postNorm x:2.721183 y:-4.194659
+length 16.576063
+toobig x:8.675622 y:-14.124429
+postNorm x:2.616913 y:-4.260489
+length 13.848078
+toobig x:6.572873 y:-12.188789
+postNorm x:2.373208 y:-4.400896
+length 26.076405
+toobig x:16.333483 y:-20.327229
+postNorm x:3.131851 y:-3.897629
+length 11.990724
+toobig x:9.079299 y:-7.832227
+postNorm x:3.785968 y:-3.265953
+length 9.858648
+toobig x:6.722481 y:-7.211186
+postNorm x:3.409433 y:-3.657290
+length 12.048200
+toobig x:9.352139 y:-7.595829
+postNorm x:3.881135 y:-3.152267
+length 10.558545
+toobig x:7.815707 y:-7.099126
+postNorm x:3.701129 y:-3.361792
+length 14.811985
+toobig x:10.639153 y:-10.305499
+postNorm x:3.591400 y:-3.478770
+length 16.228949
+toobig x:11.530831 y:-11.420101
+postNorm x:3.552550 y:-3.518435
+length 13.478197
+toobig x:10.492903 y:-8.459361
+postNorm x:3.892547 y:-3.138165
+length 9.914726
+toobig x:7.827343 y:-6.085598
+postNorm x:3.947332 y:-3.068969
+length 11.963399
+toobig x:8.880077 y:-8.016680
+postNorm x:3.711352 y:-3.350502
+length 17.639326
+toobig x:12.649020 y:-12.294231
+postNorm x:3.585460 y:-3.484893
+length 12.717627
+toobig x:9.525360 y:-8.426478
+postNorm x:3.744944 y:-3.312913
+length 9.907738
+toobig x:7.681894 y:-6.257137
+postNorm x:3.876715 y:-3.157702
+length 10.559722
+toobig x:7.811981 y:-7.104975
+postNorm x:3.698952 y:-3.364187
+length 18.728491
+toobig x:15.636780 y:-10.307641
+postNorm x:4.174597 y:-2.751861
+length 17.433680
+toobig x:15.104472 y:-8.705635
+postNorm x:4.331981 y:-2.496786
+length 20.121571
+toobig x:18.259090 y:-8.454776
+postNorm x:4.537193 y:-2.100923
+length 9.943096
+toobig x:9.459000 y:-3.064716
+postNorm x:4.756567 y:-1.541128
+length 13.157626
+toobig x:12.679139 y:-3.516041
+postNorm x:4.818172 y:-1.336123
+length 11.236565
+toobig x:10.736879 y:-3.313580
+postNorm x:4.777652 y:-1.474463
+length 20.726810
+toobig x:19.697735 y:-6.449800
+postNorm x:4.751753 y:-1.555907
+length 9.033002
+toobig x:8.671562 y:-2.529650
+postNorm x:4.799934 y:-1.400227
+length 11.958481
+toobig x:11.719886 y:-2.376875
+postNorm x:4.900240 y:-0.993803
+length 9.307032
+toobig x:8.818024 y:-2.977129
+postNorm x:4.737291 y:-1.599398
+length 10.297446
+toobig x:9.657851 y:-3.572577
+postNorm x:4.689440 y:-1.734691
+length 10.950157
+toobig x:10.610653 y:-2.705546
+postNorm x:4.844977 y:-1.235392
+length 10.278885
+toobig x:9.763301 y:-3.214565
+postNorm x:4.749202 y:-1.563674
+length 9.033775
+toobig x:8.670042 y:-2.537611
+postNorm x:4.798681 y:-1.404513
+length 9.815744
+toobig x:9.718121 y:-1.380934
+postNorm x:4.950272 y:-0.703428
+length 13.385109
+toobig x:12.866014 y:-3.691455
+postNorm x:4.806092 y:-1.378941
+length 9.039197
+toobig x:8.726715 y:-2.356166
+postNorm x:4.827152 y:-1.303305
+length 10.283751
+toobig x:9.746162 y:-3.281438
+postNorm x:4.738623 y:-1.595448
+length 16.979826
+toobig x:14.659189 y:-8.568704
+postNorm x:4.316649 y:-2.523201
+length 11.132241
+toobig x:8.244073 y:-7.480779
+postNorm x:3.702791 y:-3.359961
+length 9.905565
+toobig x:7.640862 y:-6.303766
+postNorm x:3.856853 y:-3.181931
+length 11.260098
+toobig x:7.792112 y:-8.128519
+postNorm x:3.460055 y:-3.609435
+length 9.882840
+toobig x:7.401760 y:-6.548624
+postNorm x:3.744754 y:-3.313128
+length 10.622574
+toobig x:6.682066 y:-8.257667
+postNorm x:3.145220 y:-3.886848
+length 9.840483
+toobig x:7.092371 y:-6.821538
+postNorm x:3.603670 y:-3.466059
+length 20.526903
+toobig x:15.543041 y:-13.407745
+postNorm x:3.786017 y:-3.265896
+length 10.566152
+toobig x:7.722733 y:-7.211307
+postNorm x:3.654468 y:-3.412457
+length 15.543374
+toobig x:11.592331 y:-10.354435
+postNorm x:3.729027 y:-3.330820
+length 13.500013
+toobig x:10.666528 y:-8.274996
+postNorm x:3.950562 y:-3.064810
+length 26.735548
+toobig x:23.884418 y:-12.013496
+postNorm x:4.466791 y:-2.246727
+length 8.677637
+toobig x:8.391767 y:-2.208991
+postNorm x:4.835283 y:-1.272807
+length 18.256218
+toobig x:17.754278 y:-4.251483
+postNorm x:4.862529 y:-1.164393
+length 8.070973
+toobig x:7.780770 y:-2.144815
+postNorm x:4.820218 y:-1.328722
+length 8.836601
+toobig x:8.739489 y:-1.306468
+postNorm x:4.945051 y:-0.739237
+length 9.884836
+toobig x:9.858122 y:-0.726242
+postNorm x:4.986487 y:-0.367351
+length 6.936354
+toobig x:6.906903 y:0.638512
+postNorm x:4.978771 y:0.460265
+length 9.227223
+toobig x:8.895316 y:2.452549
+postNorm x:4.820148 y:1.328975
+length 9.038386
+toobig x:8.739101 y:2.306629
+postNorm x:4.834437 y:1.276018
+length 6.179465
+toobig x:5.753465 y:2.254646
+postNorm x:4.655310 y:1.824306
+length 6.817310
+toobig x:6.577119 y:1.793664
+postNorm x:4.823837 y:1.315522
+length 7.122424
+toobig x:6.743057 y:2.293492
+postNorm x:4.733681 y:1.610050
+length 7.138119
+toobig x:6.654359 y:2.583071
+postNorm x:4.661143 y:1.809350
+length 6.236116
+toobig x:5.582724 y:2.778909
+postNorm x:4.476122 y:2.228077
+length 5.435716
+toobig x:4.400812 y:3.190589
+postNorm x:4.048052 y:2.934839
+length 5.562462
+toobig x:3.980255 y:3.885686
+postNorm x:3.577782 y:3.492775
+length 5.660252
+toobig x:3.517879 y:4.434296
+postNorm x:3.107529 y:3.917048
+length 3.851786
+length 3.902254
+length 3.336922
+length 3.944444
+length 4.180284
+length 6.971117
+toobig x:-6.783980 y:1.604393
+postNorm x:-4.865777 y:1.150743
+length 628.869873
+toobig x:-628.771362 y:11.128409
+postNorm x:-4.999217 y:0.088479

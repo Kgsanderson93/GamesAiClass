@@ -1,0 +1,14 @@
+from: 29316 to: 49658
+size of path from Djiskstra no early 10
+29316->27794->25605->45335->18157->40969->31082->20473->231->49658
+size of path from Djiskstra w/ early 10
+29316->27794->25605->45335->18157->40969->31082->20473->231->49658
+size of path from Astar w/ early Not Admissable10
+29316->27794->25605->45335->18157->40969->31082->20473->231->49658
+size of path from Astar w/ early and Admissable10
+29316->27794->25605->45335->18157->40969->31082->20473->231->49658
+size of path from Astar w/o early and Admissable10
+29316->27794->25605->45335->18157->40969->31082->20473->231->49658
+size of path from Astar w/0 early and No Admissable10
+29316->27794->25605->45335->18157->40969->31082->20473->231->49658
+

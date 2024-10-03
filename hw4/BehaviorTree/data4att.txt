@@ -1,0 +1,12 @@
+Pposx,continuous
+Pposy,continuous
+Mposx,continuous
+Mosy,continuous
+DmtoP,continuous
+Pvelx,continuous
+Pvely,continuous
+Mvelx,continuous
+Mvely,continuous
+pathlenP,continuous
+pathlenFm,continuous
+pathlenFp,continuous
